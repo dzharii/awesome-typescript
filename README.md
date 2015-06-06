@@ -9,6 +9,7 @@
 * :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 * :arrow_double_down: [Download TypeScript addons for Visual Studio](http://blogs.msdn.com/b/typescript/)
+* :octocat: [borisyankov/DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.  http://definitelytyped.org/
 
 ## Awesome TypeScript Videos
 
