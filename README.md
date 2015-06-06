@@ -1,7 +1,7 @@
 # Awesome TypeScript
 > A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript.  
 
-# Awesome TypeScript introductions
+# Getting Started with (awesome) TypeScript
 
 ## Awesome TypeScript essential resources
 * :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
@@ -14,4 +14,6 @@
 
 * :tv: [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 
-
+## TypeScript for...
+### React.js  
+* [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files.
