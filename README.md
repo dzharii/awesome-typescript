@@ -18,3 +18,10 @@
 ## TypeScript for...
 ### React.js  
 * [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files.
+
+# Built with TypeScript  
+## Mobile  
+* :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript.
+
+## Web  
+* :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
