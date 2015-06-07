@@ -8,8 +8,13 @@
 * :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
 * :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
-* :arrow_double_down: [Download TypeScript addons for Visual Studio](http://blogs.msdn.com/b/typescript/)
 * :octocat: [borisyankov/DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.  http://definitelytyped.org/
+
+## IDE 
+### Visual Studio
+* :arrow_double_down: [Download TypeScript addons for Visual Studio](http://blogs.msdn.com/b/typescript/)
+* :arrow_double_down: [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+
 
 ## Awesome TypeScript Videos
 
@@ -17,7 +22,7 @@
 
 ## TypeScript for...
 ### React.js  
-* [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files.
+* :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files.
 
 # Built with TypeScript  
 ## Mobile  
