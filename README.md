@@ -10,11 +10,39 @@
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 * :octocat: [borisyankov/DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.  http://definitelytyped.org/
 
-### IDE 
-#### Visual Studio
+### IDE
+#### Offline
+##### Visual Studio
 * :arrow_double_down: [Download TypeScript addons for Visual Studio](http://blogs.msdn.com/b/typescript/)
 * :arrow_double_down: [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
 
+##### TypeScript specific
+* :arrow_double_down: [CATS](http://jbaron.github.io/cats/) by @jbaron
+* :arrow_double_down: [Goorm](http://goorm.io/)
+
+##### Sublime
+* :arrow_double_down: [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
+
+##### Atom
+* :arrow_double_down: [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
+
+##### Emacs
+* :arrow_double_down: [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide) by @ananthakumaran
+
+##### Eclipse
+* :arrow_double_down: [TypeScript IDE for Eclipse](http://typecsdev.com/)
+
+#### Online
+
+##### Playground
+* :arrow_double_down: [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104
+* :arrow_double_down: [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
+* :arrow_double_down: [JS Bin](http://jsbin.com/?js) (Select TypeScript)
+* :arrow_double_down: [Codepen](http://codepen.io/) (Select TypeScript)
+* :arrow_double_down: [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
+
+##### Chrome Extension
+* :arrow_double_down: [TypeScript Editey](https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf)
 
 ### Awesome TypeScript Videos
 
