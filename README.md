@@ -58,3 +58,12 @@
 
 ### Web  
 * :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+
+
+## Linter
+
+### Online
+
+### Offline
+
+- [TsLint](https://github.com/palantir/tslint) by @palantir
