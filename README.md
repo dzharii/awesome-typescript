@@ -1,5 +1,5 @@
 # Awesome TypeScript
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript.  
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript.
 
 ## Getting Started with (awesome) TypeScript
 
@@ -15,6 +15,7 @@
 ##### Visual Studio
 * :arrow_double_down: [Download TypeScript addons for Visual Studio](http://blogs.msdn.com/b/typescript/)
 * :arrow_double_down: [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+* :arrow_double_down: [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
 
 ##### TypeScript specific
 * :arrow_double_down: [CATS](http://jbaron.github.io/cats/) by @jbaron
@@ -31,6 +32,9 @@
 
 ##### Eclipse
 * :arrow_double_down: [TypeScript IDE for Eclipse](http://typecsdev.com/)
+
+##### Vim
+* :arrow_double_down: [TypeScript Syntax](https://github.com/leafgarland/typescript-vim)
 
 #### Online
 
@@ -49,14 +53,14 @@
 * :tv: [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 
 ### TypeScript for...
-#### React.js  
+#### React.js
 * :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files.
 
-## Built with TypeScript  
-### Mobile  
+## Built with TypeScript
+### Mobile
 * :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript.
 
-### Web  
+### Web
 * :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 
