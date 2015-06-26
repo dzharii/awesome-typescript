@@ -44,6 +44,7 @@
 * :arrow_double_down: [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 * :arrow_double_down: [Codepen](http://codepen.io/) (Select TypeScript)
 * :arrow_double_down: [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
+* :arrow_double_down: [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
 
 ##### Chrome Extension
 * :arrow_double_down: [TypeScript Editey](https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf)
