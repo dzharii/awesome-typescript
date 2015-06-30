@@ -5,6 +5,7 @@
 
 ### Awesome TypeScript essential resources
 * :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
+* :books: [TypeScript Deep Dive](http://basarat.gitbooks.io/typescript/) by Basarat Ali Syed (@basarat)
 * :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
 * :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
