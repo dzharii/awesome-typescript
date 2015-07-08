@@ -57,6 +57,7 @@
 ### TypeScript for...
 #### React.js
 * :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files.
+* :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 
 ## Built with TypeScript
 ### Mobile
