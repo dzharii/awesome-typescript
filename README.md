@@ -1,15 +1,19 @@
 # Awesome TypeScript
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists.
+
+##Contributing
+
+Please take a quick look at the [contribution guidelines](/contributing.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
 
 ## Getting Started with (awesome) TypeScript
 
 ### Awesome TypeScript essential resources
-* :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
-* :books: [TypeScript Deep Dive](http://basarat.gitbooks.io/typescript/) by Basarat Ali Syed (@basarat)
-* :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
-* :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
-* :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
-* :octocat: [borisyankov/DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.  http://definitelytyped.org/
+* :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript.
+* :books: [TypeScript Deep Dive](http://basarat.gitbooks.io/typescript/) by [Basarat Ali Syed](https://twitter.com/basarat).
+* :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code.
+* :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap).
+* :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates.
+* :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/borisyankov/DefinitelyTyped). 
 
 ### IDE
 #### Offline
@@ -52,19 +56,19 @@
 
 ### Awesome TypeScript Videos
 
-* :tv: [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
+* :tv: [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript.
 
 ### TypeScript for...
 #### React.js
 * :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files.
-* :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
+* :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/).
 
 ## Built with TypeScript
 ### Mobile
 * :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript.
 
 ### Web
-* :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+* :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications.
 
 
 ## Linter
