@@ -8,12 +8,12 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ## Getting Started with (awesome) TypeScript
 
 ### Awesome TypeScript essential resources
-* :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript.
-* :books: [TypeScript Deep Dive](http://basarat.gitbooks.io/typescript/) by [Basarat Ali Syed](https://twitter.com/basarat).
-* :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code.
-* :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap).
-* :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates.
-* :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/borisyankov/DefinitelyTyped). 
+* :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
+* :books: [TypeScript Deep Dive](http://basarat.gitbooks.io/typescript/) by [Basarat Ali Syed](https://twitter.com/basarat)
+* :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
+* :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+* :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
+* :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/borisyankov/DefinitelyTyped) 
 
 ### IDE
 #### Offline
@@ -22,24 +22,13 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :arrow_double_down: [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
 * :arrow_double_down: [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
 
-##### TypeScript specific
-* :arrow_double_down: [CATS](http://jbaron.github.io/cats/) by @jbaron
-* :arrow_double_down: [Goorm](http://goorm.io/)
-
-##### Sublime
+##### Other (Cross-platform / OSS)
+* :arrow_double_down: [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
 * :arrow_double_down: [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
-
-##### Atom
 * :arrow_double_down: [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
-
-##### Emacs
 * :arrow_double_down: [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide) by @ananthakumaran
-
-##### Eclipse
 * :arrow_double_down: [TypeScript IDE for Eclipse](http://typecsdev.com/)
-
-##### Vim
-* :arrow_double_down: [TypeScript Syntax](https://github.com/leafgarland/typescript-vim)
+* :arrow_double_down: [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
 
 #### Online
 
@@ -56,35 +45,30 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Awesome TypeScript Videos
 
-* :tv: [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript.
+* :tv: [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 
 ### TypeScript for...
 #### React.js
-* :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files.
-* :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/).
+* :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
+* :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 
 ## Build Systems
 * [Grunt](http://gruntjs.com/) tasks:
-  - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts.
+  - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
 
 ## Module Bundlers 
 * [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling 
-  - :scroll: [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support.
-* [Browserify](http://browserify.org/) - CommonJS module bundlers. Does not support TypeScript "out of the box", but can be applied with [Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify).
+  - :scroll: [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support
+* [Browserify](http://browserify.org/) - CommonJS module bundlers. Does not support TypeScript "out of the box", but can be applied with [Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify)
 
 
 ## Built with TypeScript
 ### Mobile
-* :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript.
+* :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
 
 ### Web
-* :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications.
+* :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 
 ## Linter
-
-### Online
-
-### Offline
-
 - [TsLint](https://github.com/palantir/tslint) by @palantir
