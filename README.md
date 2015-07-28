@@ -63,6 +63,16 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files.
 * :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/).
 
+## Build Systems
+* [Grunt](http://gruntjs.com/) tasks:
+  - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts.
+
+## Module Bundlers 
+* [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling 
+  - :scroll: [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support.
+* [Browserify](http://browserify.org/) - CommonJS module bundlers. Does not support TypeScript "out of the box", but can be applied with [Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify).
+
+
 ## Built with TypeScript
 ### Mobile
 * :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript.
