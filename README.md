@@ -18,11 +18,12 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### IDE
 #### Offline
 ##### Visual Studio
-* :arrow_double_down: [Download TypeScript addons for Visual Studio](http://blogs.msdn.com/b/typescript/)
+* :arrow_double_down: [ Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
+* :arrow_double_down: [Download TypeScript addons for Visual Studio 2013](http://blogs.msdn.com/b/typescript/)
 * :arrow_double_down: [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
-* :arrow_double_down: [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
 
-##### Other (Cross-platform / OSS)
+##### Other (Plugins || Cross-platform || OSS || Free)
+* :arrow_double_down: [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx) 
 * :arrow_double_down: [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
 * :arrow_double_down: [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
 * :arrow_double_down: [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
