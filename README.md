@@ -60,7 +60,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ## Module Bundlers 
 * [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling 
   - :scroll: [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support
-* [Browserify](http://browserify.org/) - CommonJS module bundlers. Does not support TypeScript "out of the box", but can be applied with [Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify)
+* [Browserify](http://browserify.org/) - CommonJS module bundler. Does not support TypeScript "out of the box", but can be applied with *[Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify)*
 
 
 ## Built with TypeScript
