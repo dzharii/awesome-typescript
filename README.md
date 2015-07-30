@@ -62,8 +62,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
   - :scroll: [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support
 * [Browserify](http://browserify.org/) - CommonJS module bundler. Does not support TypeScript "out of the box", but can be applied with *[Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify)*
 
-## Documentation
+## Tools
 * [TypeDoc](http://typedoc.io/) - A documentation generator for TypeScript projects
+* [TsLint](https://github.com/palantir/tslint) - TypeScript linter by @palantir
 
 ## Built with TypeScript
 ### Mobile
@@ -72,6 +73,3 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### Web
 * :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
-
-## Linter
-- [TsLint](https://github.com/palantir/tslint) by @palantir
