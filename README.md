@@ -72,4 +72,4 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Web
 * :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
-
+* :octocat: [palantir/plottable](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
