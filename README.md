@@ -73,3 +73,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### Web
 * :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 * :octocat: [palantir/plottable](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
+
+### Social
+ * [@typescriptlang](https://twitter.com/typescriptlang) - Official Typescript Twitter
+ * [@angularjs](https://twitter.com/angularjs) - Official Angularjs Twitter using Typescript Since 2.0
+ * [@jntrnr](https://twitter.com/jntrnr) - Typescript Program Manager at Microsoft
+ * [@ahejlsberg](https://twitter.com/ahejlsberg) - Technical Fellow at Microsoft invovled with the Typescript project
