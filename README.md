@@ -30,6 +30,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :arrow_double_down: [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide) by @ananthakumaran
 * :arrow_double_down: [TypeScript IDE for Eclipse](http://typecsdev.com/)
 * :arrow_double_down: [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
+* :octocat: [Typescript addin for](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
 
 #### Online
 
