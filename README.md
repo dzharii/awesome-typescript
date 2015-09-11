@@ -35,7 +35,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 #### Online
 
 ##### Playground
-* :arrow_double_down: [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104
+* :arrow_double_down: [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5](https://github.com/basarat/TypeScriptEditor)
 * :arrow_double_down: [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 * :arrow_double_down: [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 * :arrow_double_down: [Codepen](http://codepen.io/) (Select TypeScript)
