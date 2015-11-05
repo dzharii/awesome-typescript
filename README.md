@@ -13,7 +13,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
 * :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
-* :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/borisyankov/DefinitelyTyped) 
+* :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/borisyankov/DefinitelyTyped)
 
 ### IDE
 #### Offline
@@ -23,7 +23,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :arrow_double_down: [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
 
 ##### Other (Plugins || Cross-platform || OSS || Free)
-* :arrow_double_down: [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx) 
+* :arrow_double_down: [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
 * :arrow_double_down: [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
 * :arrow_double_down: [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
 * :arrow_double_down: [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
@@ -60,14 +60,15 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Grunt](http://gruntjs.com/) tasks:
   - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
 
-## Module Bundlers 
-* [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling 
+## Module Bundlers
+* [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling
   - :scroll: [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support
 * [Browserify](http://browserify.org/) - CommonJS module bundler. Does not support TypeScript "out of the box", but can be applied with *[Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify)*
 
 ## Tools
 * [TypeDoc](http://typedoc.io/) - A documentation generator for TypeScript projects
 * [TsLint](https://github.com/palantir/tslint) - TypeScript linter by @palantir
+* [SideCI](https://www.sideci.com) - Automated code review - Integrate GitHub Pull Request x TsLint 
 
 ## Built with TypeScript
 ### Mobile
@@ -77,7 +78,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 * :octocat: [palantir/plottable](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
 
-# Video Courses 
+# Video Courses
 
 ## :dollar: Paid Courses
 * [Angular with TypeScript](http://www.pluralsight.com/courses/angular-typescript) (Pluralsight)
