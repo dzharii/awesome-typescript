@@ -85,6 +85,10 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 # Video Courses
 
+## :free: Free Courses
+[Angular Applications with TypeScript](https://mva.microsoft.com/en-US/training-courses/angular-applications-with-typescript-14330) (Microsoft Virtual Academy)
+[AngularJS with TypeScript made easy](https://www.youtube.com/watch?v=OZxnFB0yQHs) (SSW TV)
+
 ## :dollar: Paid Courses
 * [TypeScript Fundamentals](https://www.pluralsight.com/courses/typescript) (Pluralsight)
 * [Practical TypeScript Migration](https://www.pluralsight.com/courses/typescript-practical-migration) (Pluralsight)
