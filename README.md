@@ -58,6 +58,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 * :octocat: [TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
 * :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
+* :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
 
 ## Build Systems
 * [Grunt](http://gruntjs.com/) tasks:
