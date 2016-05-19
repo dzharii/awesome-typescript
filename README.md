@@ -21,33 +21,33 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### IDE
 #### Offline
 ##### Visual Studio
-* :arrow_double_down: [ Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
-  * :arrow_double_down: [VS Addon - TypescriptSyntaxPaste](https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7) - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface
-* :arrow_double_down: [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+* [ Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
+  * [VS Addon - TypescriptSyntaxPaste](https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7) - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface
+* [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
 
 ##### Other (Plugins || Cross-platform || OSS || Free)
-* :arrow_double_down: [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
-* :arrow_double_down: [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
-* :arrow_double_down: [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
-* :arrow_double_down: [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
-* :arrow_double_down: [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
-* :arrow_double_down: [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide) by @ananthakumaran
-* :arrow_double_down: [TypeScript IDE for Eclipse](http://typecsdev.com/)
-* :arrow_double_down: [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
+* [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
+* [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
+* [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
+* [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
+* [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
+* [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide) by @ananthakumaran
+* [TypeScript IDE for Eclipse](http://typecsdev.com/)
+* [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
 * :octocat: [Typescript addin for](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
 
 #### Online
 
 ##### Playground
-* :arrow_double_down: [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5](https://github.com/basarat/TypeScriptEditor)
-* :arrow_double_down: [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
-* :arrow_double_down: [JS Bin](http://jsbin.com/?js) (Select TypeScript)
-* :arrow_double_down: [Codepen](http://codepen.io/) (Select TypeScript)
-* :arrow_double_down: [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
-* :arrow_double_down: [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
+* [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5](https://github.com/basarat/TypeScriptEditor)
+* [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
+* [JS Bin](http://jsbin.com/?js) (Select TypeScript)
+* [Codepen](http://codepen.io/) (Select TypeScript)
+* [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
+* [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
 
 ##### Chrome Extension
-* :arrow_double_down: [TypeScript Editey](https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf)
+* [TypeScript Editey](https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf)
 
 ### Awesome TypeScript Videos
 
