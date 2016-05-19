@@ -22,7 +22,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 #### Offline
 ##### Visual Studio
 * :arrow_double_down: [ Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
-* :arrow_double_down: [Download TypeScript addons for Visual Studio 2013](http://blogs.msdn.com/b/typescript/)
+  * :arrow_double_down: [VS Addon - TypescriptSyntaxPaste](https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7) - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface
 * :arrow_double_down: [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
 
 ##### Other (Plugins || Cross-platform || OSS || Free)
