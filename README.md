@@ -84,6 +84,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+* :octocat: [alm - A next generation IDE just for TypeScript written in TypeScript + React](https://github.com/alm-tools/alm)
 
 # Video Courses
 
