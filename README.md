@@ -39,7 +39,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 #### Online
 
 ##### Playground
-* [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg)](https://github.com/ellerbrock/typescript-badges/)  
 * [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5](https://github.com/basarat/TypeScriptEditor)
 * [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 * [JS Bin](http://jsbin.com/?js) (Select TypeScript)
@@ -99,6 +98,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Angular with TypeScript](http://www.pluralsight.com/courses/angular-typescript) (Pluralsight)
 * [Using TypeScript for Large AngularJS Applications](https://www.pluralsight.com/courses/using-typescript-large-angularjs-apps) (Pluralsight)
 
+### Badges
+* [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)  
+[![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/version/typescript-next.svg)](https://github.com/ellerbrock/typescript-badges/)  
 
 ### Social
  * [@typescriptlang](https://twitter.com/typescriptlang) - Official Typescript Twitter
