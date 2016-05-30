@@ -39,6 +39,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 #### Online
 
 ##### Playground
+* [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg)](https://github.com/ellerbrock/typescript-badges/)  
 * [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5](https://github.com/basarat/TypeScriptEditor)
 * [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 * [JS Bin](http://jsbin.com/?js) (Select TypeScript)
