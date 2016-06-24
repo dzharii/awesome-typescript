@@ -77,6 +77,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ## Built with TypeScript
 ### Mobile
 * :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
+* [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
 
 ### Web
 * :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
