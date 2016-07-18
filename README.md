@@ -16,7 +16,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
 * :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
-* :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/DefinitelyTyped/DefinitelyTyped)
+* ~~:octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/DefinitelyTyped/DefinitelyTyped)~~ (deprecated)
+* :octocat: [Typings](https://github.com/typings/typings), the TypeScript definition manager
 
 ### IDE
 #### Offline
