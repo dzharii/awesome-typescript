@@ -49,6 +49,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ##### Chrome Extension
 * [TypeScript Editey](https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf)
+* [OctoLinker](https://github.com/OctoLinker/browser-extension)
 
 ### Awesome TypeScript Videos
 
