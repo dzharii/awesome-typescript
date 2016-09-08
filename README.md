@@ -19,6 +19,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * :octocat: [Typings](https://github.com/typings/typings), the TypeScript definition manager
 
+#### Books
+* :books: [Angular 2 Development with TypeScript](by Yakov Fain and Anton Moiseev; Manning)
+
 ### IDE
 #### Offline
 ##### Visual Studio
