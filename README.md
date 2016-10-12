@@ -66,6 +66,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
 * :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
 
+## Aspect Oriented Programming
+* [Agent Framework](https://github.com/agentframework/agentframework) Create interceptor for your class and method using @decorators
+
 ## Build Systems
 * [Grunt](http://gruntjs.com/) tasks:
   - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
@@ -78,6 +81,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ## Tools
 * [TypeDoc](http://typedoc.io/) - A documentation generator for TypeScript projects
 * [TsLint](https://github.com/palantir/tslint) - TypeScript linter by @palantir
+* [TypeScript Standard](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
 
 ## Built with TypeScript
 ### Mobile
