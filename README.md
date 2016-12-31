@@ -19,7 +19,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * :octocat: [Type search](https://aka.ms/typings), search for typings on npm
 
-#### Books
+### Books
 * :books: [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
 
 ### IDE
