@@ -8,9 +8,9 @@
 
 Please take a quick look at the [contribution guidelines](/contributing.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
 
-## Getting Started with (awesome) TypeScript
+## Getting Started with (Awesome) TypeScript
 
-### Awesome TypeScript essential resources
+### Awesome TypeScript Essential Resources
 * :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
 * :books: [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/) by [Basarat Ali Syed](https://twitter.com/basarat)
 * :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
@@ -18,6 +18,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 * :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * :octocat: [Type search](https://aka.ms/typings), search for typings on npm
+
+### Typescript Starter Projects
+* [typescript-starter](https://github.com/bitjson/es7-typescript-starter) – A typescript starter for building javascript libraries and projects
 
 ### Books
 * :books: [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
