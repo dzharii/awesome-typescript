@@ -24,7 +24,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Books
 * :books: [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
-* :books: [NativeScript in Action](https://www.manning.com/books/nativescript-in-action) teaches readers who know JavaScript and CSS how to create native iOS and Android apps using NativeScript (Michael E. Branstein and Nicholas J. Branstein)
+* :books: [NativeScript in Action](https://www.manning.com/books/nativescript-in-action) teaches readers who know JavaScript and CSS how to create native iOS and Android apps using NativeScript (by Michael E. Branstein and Nicholas J. Branstein)
 
 ### IDE
 #### Offline
