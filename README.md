@@ -63,7 +63,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :tv: [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 
 ### TypeScript for...
-#### React.js
+#### React
+* :octocat: [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) Create React apps using typescript with no build configuration
 * :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
 * :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 * :octocat: [TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
