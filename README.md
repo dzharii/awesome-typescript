@@ -97,7 +97,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
 
 ### Web
-* :octocat: [AngularJs2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+* :octocat: [Angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 * :octocat: [React-UWP](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
 * :octocat: [palantir/plottable](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
 * :octocat: [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
