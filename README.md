@@ -105,6 +105,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
 * :octocat: [Rebilly/ReDoc](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 * :octocat: [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+* :octocat: [Bobril](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: http://bobril.com/)
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
