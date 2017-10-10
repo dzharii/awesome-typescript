@@ -23,7 +23,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typescript-starter](https://github.com/bitjson/es7-typescript-starter) – A typescript starter for building javascript libraries and projects
 
 ### Books
-* :books: :fire: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-2-development-with-typescript) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
+* :books: :fire: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
 * :books: [Angular 2 Development with TypeScript (2016)](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
 * :books: [NativeScript in Action](https://www.manning.com/books/nativescript-in-action) teaches readers who know JavaScript and CSS how to create native iOS and Android apps using NativeScript (by Michael E. Branstein and Nicholas J. Branstein)
 * :books: [Mastering TypeScript 2nd Ed.](https://www.packtpub.com/application-development/mastering-typescript-second-edition) by Nathan Rozentals
