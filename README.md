@@ -106,6 +106,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Rebilly/ReDoc](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 * :octocat: [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
 * :octocat: [Bobril](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: http://bobril.com/)
+* :octocat: [Stencil](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
 * :octocat: [redux-zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
 
 ### Standalone apps
