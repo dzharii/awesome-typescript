@@ -1,4 +1,4 @@
-npx trymodule colors# Awesome TypeScript
+# Awesome TypeScript
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch](https://github.com/dzharii/awesome-elasticsearch) →
 
