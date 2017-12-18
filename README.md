@@ -1,4 +1,4 @@
-# Awesome TypeScript
+npx trymodule colors# Awesome TypeScript
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch](https://github.com/dzharii/awesome-elasticsearch) →
 
@@ -28,6 +28,14 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :books: [Mastering TypeScript 2nd Ed.](https://www.packtpub.com/application-development/mastering-typescript-second-edition) by Nathan Rozentals
 * :books: [Beginning Angular 4 with TypeScript](https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674) by Greg Lim
 
+### CLI and REPL
+* Use [ts-node](https://github.com/TypeStrong/ts-node) to run scripts or REPL
+* How to make executable typescript scripts:
+  1. Make sure you have `npx` (shipped with `npm >= 5.2`) and `typescript` package is installed
+  1. Add this [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) as first line to your script: `#!npx ts-node`
+  1. Make script executable: `chmod +x script.ts`
+  1. Run directly: `./script.ts` :)
+  
 ### IDE
 #### Offline
 ##### Visual Studio
