@@ -103,6 +103,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TsLint](https://github.com/palantir/tslint) - TypeScript linter by @palantir
 * [TypeScript Standard](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
 
+## Types
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability
+
 ## Built with TypeScript
 ### Mobile
 * :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
