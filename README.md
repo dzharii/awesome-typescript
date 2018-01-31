@@ -18,6 +18,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 * :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * :octocat: [Type search](https://aka.ms/typings), search for typings on npm
+* :books: [Community Curated Resources](https://hackr.io/tutorials/learn-typescript)
 
 ### Typescript Starter Projects
 * [typescript-starter](https://github.com/bitjson/es7-typescript-starter) – A typescript starter for building javascript libraries and projects
