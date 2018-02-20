@@ -106,6 +106,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ## Types
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability
+* [utility-types](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
+* [elm-ts](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
 
 ## Built with TypeScript
 ### Mobile
