@@ -126,6 +126,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Stencil](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
 * :octocat: [redux-zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
 * :octocat: [wretch](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+* :octocat: [Cycle.js](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
@@ -133,6 +134,13 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Design patterns
 * :octocat: [Design Patterns implementation](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+
+### Libraries
+* :octocat: [RxJS](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript.
+* :octocat: [xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
+* :octocat: [TypeMoq](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
+* :octocat: [InversifyJS](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+* :octocat: [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 
 # Video Courses
 
