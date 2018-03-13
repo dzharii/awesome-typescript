@@ -20,8 +20,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Type search](https://aka.ms/typings), search for typings on npm
 * :books: [Community Curated Resources](https://hackr.io/tutorials/learn-typescript)
 
-### Typescript Starter Projects
-* [typescript-starter](https://github.com/bitjson/es7-typescript-starter) – A typescript starter for building javascript libraries and projects
+### Typescript Project Starters
+* [typescript-starter](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
 
 ### Books
 * :books: :fire: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
