@@ -105,6 +105,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
 * [TsLint](https://github.com/palantir/tslint) - TypeScript linter by @palantir
 * [TypeScript Standard](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
+* [typed-install](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 
 ## Types
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability
