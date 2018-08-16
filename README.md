@@ -151,6 +151,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [TypeGQL](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
 * :octocat: [TSTL](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
   * :octocat: [ECOL](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
+* :octocat: [Kalimdor.js](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 # Video Courses
 
