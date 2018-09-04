@@ -153,6 +153,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [TSTL](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
   * :octocat: [ECOL](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
 * :octocat: [Kalimdor.js](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+* :octocat: [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators. 
 
 # Video Courses
 
