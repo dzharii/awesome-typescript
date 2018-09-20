@@ -147,6 +147,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
 * :octocat: [substitute.js](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
 * :octocat: [TypeMoq](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
+* :octocat: [fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 * :octocat: [InversifyJS](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 * :octocat: [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 * :octocat: [TypeGQL](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
