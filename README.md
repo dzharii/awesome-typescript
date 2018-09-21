@@ -156,6 +156,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Kalimdor.js](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 * :octocat: [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators. 
 * :octocat: [ee-ts](https://github.com/aleclarson/ee-ts) - Typed event emitters
+* :octocat: [io-ts](https://github.com/gcanti/io-ts) - Type validation at runtime
 
 # Video Courses
 
