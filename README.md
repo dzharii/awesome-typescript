@@ -89,6 +89,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
 * :octocat: [Typescript Monorepo CRA Example](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
 * :octocat: [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
+* :scroll: [React TypeScript Kickstart Guide](https://sandstorm.github.io/typescript-react-app-kickstart-guide/) - In-depth, incl. boilerplate, cookbook & snipptes for Redux, Sass, Storybook and unit testing.
 
 ## Aspect Oriented Programming
 * [Agent Framework](https://github.com/agentframework/agentframework) Create interceptor for your class and method using @decorators
