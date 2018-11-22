@@ -154,7 +154,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 * :octocat: [TypeGQL](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
 * :octocat: [TSTL](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
-  * :octocat: [ECOL](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
+  * :octocat: [ECol](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
+  * :octocat: [TGrid](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
 * :octocat: [Kalimdor.js](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 * :octocat: [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators. 
 * :octocat: [ee-ts](https://github.com/aleclarson/ee-ts) - Typed event emitters
