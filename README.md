@@ -4,6 +4,10 @@
 
 > A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists.
 
+## More awesome resources
+
+> [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript/blob/master/README-en.md) thank you @semlinker for curating the list! 
+
 ## Contributing
 
 Please take a quick look at the [contribution guidelines](/contributing.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
