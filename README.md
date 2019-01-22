@@ -26,6 +26,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Typescript Project Starters
 * [typescript-starter](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
+* [typescript-node-module-starter](https://github.com/jwworth/typescript-node-module-starter) - 
+Kick off a new Node module, with TypeScript and Jest included
 * [next-smrt](https://github.com/csprance/next-smrt) – A Typescript/NextJs boilerplate with Redux/Styled Components/Material UI and TypeSafe Actions.
 
 ### Books
