@@ -23,6 +23,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * :octocat: [Type search](https://aka.ms/typings), search for typings on npm
 * :books: [Community Curated Resources](https://hackr.io/tutorials/learn-typescript)
+* :octocat: [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 
 ### Typescript Project Starters
 * [typescript-starter](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
