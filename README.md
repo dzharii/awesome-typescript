@@ -146,6 +146,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [wretch](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 * :octocat: [Cycle.js](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
 
+### Back-end API
+* :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
+
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 * :octocat: [alm - A next generation IDE just for TypeScript written in TypeScript + React](https://github.com/alm-tools/alm)
