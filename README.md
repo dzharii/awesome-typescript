@@ -145,6 +145,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [redux-zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
 * :octocat: [wretch](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 * :octocat: [Cycle.js](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
+* :octocat: [Tridactyl](https://github.com/tridactyl/tidactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ### Back-end API
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
