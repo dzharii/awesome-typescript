@@ -29,7 +29,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typescript-starter](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
 * [next-smrt](https://github.com/csprance/next-smrt) – A Typescript/NextJs boilerplate with Redux/Styled Components/Material UI and TypeSafe Actions.
 * :octocat: [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app boilerplate with Next.js 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion 
-* [MicroTS](https://www.npmjs.com/package/microts) Microservice code generator with interface-first approach: from OpenAPI (Swagger) REST API specification is generated complete project with TypeScript code, input validator, UI, tests and Docker configuration.
+* [MicroTS](https://www.npmjs.com/package/microts) Microservice code generator with interface-first approach: from OpenAPI (Swagger) REST API specification is generated complete project with TypeScript code, input validator, UI, tests and Docker configuration.
+* [pankod/next-boilerplate] (https://github.com/pankod/next-boilerplate) A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer and Built-in CLI
 
 ### Books
 * :books: :fire: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
@@ -56,6 +57,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ##### Other (Plugins || Cross-platform || OSS || Free)
 * [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
 * [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
+* [WebStorm](https://www.jetbrains.com/webstorm/download/)
 * [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
 * [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
 * [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
@@ -86,6 +88,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 #### React
 * :octocat: [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) Create React apps using typescript with no build configuration; based on `create-react-app`
 * :octocat: [Microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
+* :scroll: [typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript 
 * :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
 * :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 * :octocat: [TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
@@ -128,6 +131,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typescript-conditional-types](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
 * [ts-types-utils](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript 
 * [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
+* [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ## Built with TypeScript
 ### Mobile
@@ -148,6 +152,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [wretch](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 * :octocat: [Cycle.js](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
 * :octocat: [Tridactyl](https://github.com/tridactyl/tidactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+* :octocat: [armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 
 ### Back-end API
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
