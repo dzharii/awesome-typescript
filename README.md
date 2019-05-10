@@ -151,6 +151,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [wretch](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 * :octocat: [Cycle.js](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
 * :octocat: [Tridactyl](https://github.com/tridactyl/tidactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+* :octocat: [armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 
 ### Back-end API
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
