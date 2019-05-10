@@ -56,6 +56,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ##### Other (Plugins || Cross-platform || OSS || Free)
 * [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
 * [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
+* [WebStorm](https://www.jetbrains.com/webstorm/download/)
 * [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
 * [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
 * [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
