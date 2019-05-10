@@ -130,6 +130,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [ts-essentials](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
 * [typescript-conditional-types](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
 * [ts-types-utils](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript 
+* [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 * [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ## Built with TypeScript
