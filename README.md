@@ -180,6 +180,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators. 
 * :octocat: [ee-ts](https://github.com/aleclarson/ee-ts) - Typed event emitters
 * :octocat: [io-ts](https://github.com/gcanti/io-ts) - Type validation at runtime
+* :octocat: [mokia](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
 
 # Video Courses
 
