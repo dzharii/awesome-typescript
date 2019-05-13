@@ -204,4 +204,4 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
  * [@typescriptlang](https://twitter.com/typescriptlang) - Official Typescript Twitter
  * [@angularjs](https://twitter.com/angularjs) - Official Angularjs Twitter using Typescript Since 2.0
  * [@jntrnr](https://twitter.com/jntrnr) - Typescript Program Manager at Microsoft
- * [@ahejlsberg](https://twitter.com/ahejlsberg) - Technical Fellow at Microsoft invovled with the Typescript project
+ * [@ahejlsberg](https://twitter.com/ahejlsberg) - Technical Fellow at Microsoft involved with the Typescript project
