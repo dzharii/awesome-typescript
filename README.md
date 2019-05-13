@@ -116,6 +116,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [fuse-box](https://github.com/fuse-box/fuse-box) | [http://fuse-box.org/](http://fuse-box.org/) - typescript sample: [fuse-box-ts-react-reflux-seed](https://github.com/fuse-box/fuse-box-ts-react-reflux-seed)
 
 ## Tools
+* [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
 * [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
 * [TsLint](https://github.com/palantir/tslint) - TypeScript linter by @palantir
 * [TypeScript Standard](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
