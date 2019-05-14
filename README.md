@@ -38,6 +38,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :books: [Learning TypeScript 2.x 2nd Ed.](https://www.learningtypescript.com) by Remo H. Jansen
 * :books: [Mastering TypeScript 2nd Ed.](https://www.packtpub.com/application-development/mastering-typescript-second-edition) by Nathan Rozentals
 * :books: [Beginning Angular 4 with TypeScript](https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674) by Greg Lim
+* :books: [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
 
 ### CLI and REPL
 * Use [ts-node](https://github.com/TypeStrong/ts-node) to run scripts or REPL
