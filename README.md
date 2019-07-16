@@ -135,6 +135,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [ts-types-utils](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript 
 * [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 * [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+### Runtime
+* [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
+* [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## Built with TypeScript
 ### Mobile
