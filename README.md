@@ -202,6 +202,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Using TypeScript for Large AngularJS Applications](https://www.pluralsight.com/courses/using-typescript-large-angularjs-apps) (Pluralsight)
 * [Introduction to TypeScript](https://www.packtpub.com/application-development/introduction-typescript-video) (Packt)
 * [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
+* [TypeScript: The Complete Developer's Guide](https://www.udemy.com/typescript-the-complete-developers-guide/) (Udemy)
 
 ### Badges
 * [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)  
