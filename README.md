@@ -161,6 +161,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 
 ### Back-end API
+* :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST api templating engine for Typescript
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
 
 ### Standalone apps
