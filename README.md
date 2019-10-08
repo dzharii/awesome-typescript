@@ -159,6 +159,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Cycle.js](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
 * :octocat: [Tridactyl](https://github.com/tridactyl/tidactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 * :octocat: [armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
+* :octocat: [n8n.io](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ### Back-end API
 * :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST api templating engine for Typescript
