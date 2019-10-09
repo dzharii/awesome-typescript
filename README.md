@@ -25,6 +25,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :books: [Community Curated Resources](https://hackr.io/tutorials/learn-typescript)
 * :octocat: [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 * :computer: [Should You Learn TypeScript? (Benefits & Resources)](https://snipcart.com/blog/learn-typescript-why-use-ts)
+* :books: [Why the use of Typescript in your team could be worthwhile](https://www.zauberware.com/en/articles/2019/typescript/)
+
 
 ### Typescript Project Starters
 * [typescript-starter](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
