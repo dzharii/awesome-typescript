@@ -6,7 +6,7 @@
 
 ## More awesome resources
 
-> [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript/blob/master/README-en.md) thank you @semlinker for curating the list! 
+> [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript/blob/master/README-en.md) thank you @semlinker for curating the list!
 
 ## Contributing
 
@@ -29,7 +29,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### Typescript Project Starters
 * [typescript-starter](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
 * [next-smrt](https://github.com/csprance/next-smrt) – A Typescript/NextJs boilerplate with Redux/Styled Components/Material UI and TypeSafe Actions.
-* :octocat: [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app boilerplate with Next.js 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion 
+* :octocat: [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app boilerplate with Next.js 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
 * [MicroTS](https://www.npmjs.com/package/microts) Microservice code generator with interface-first approach: from OpenAPI (Swagger) REST API specification is generated complete project with TypeScript code, input validator, UI, tests and Docker configuration.
 * [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer and Built-in CLI
 
@@ -49,7 +49,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
   1. Add this [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) as first line to your script: `#!npx ts-node`
   1. Make script executable: `chmod +x script.ts`
   1. Run directly: `./script.ts` :)
-  
+
 ### IDE
 #### Offline
 ##### Visual Studio
@@ -90,7 +90,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 #### React
 * :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
 * :octocat: [Microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
-* :scroll: [typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript 
+* :scroll: [typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
 * :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
 * :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 * :octocat: [TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
@@ -132,7 +132,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [elm-ts](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
 * [ts-essentials](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
 * [typescript-conditional-types](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
-* [ts-types-utils](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript 
+* [ts-types-utils](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript
 * [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 * [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 ### Runtime
@@ -162,9 +162,11 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [n8n.io](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ### Back-end API
+
 * :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST api templating engine for Typescript
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
 * :octocat: [FoalTS](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: https://foalts.org)
+* :octocat: [Enso](http://ensojs.netlify.com) - Typescript first Node.JS framework inspired by Domain Driven Design principles with a focus on composition and Developer Experience
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
@@ -188,7 +190,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
   * :octocat: [ECol](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
   * :octocat: [TGrid](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
 * :octocat: [Kalimdor.js](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
-* :octocat: [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators. 
+* :octocat: [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
 * :octocat: [ee-ts](https://github.com/aleclarson/ee-ts) - Typed event emitters
 * :octocat: [io-ts](https://github.com/gcanti/io-ts) - Type validation at runtime
 * :octocat: [mokia](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
@@ -209,8 +211,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TypeScript: The Complete Developer's Guide](https://www.udemy.com/typescript-the-complete-developers-guide/) (Udemy)
 
 ### Badges
-* [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)  
-[![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)  
+* [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)
 
 ### Social
  * [@typescriptlang](https://twitter.com/typescriptlang) - Official Typescript Twitter
