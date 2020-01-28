@@ -6,7 +6,7 @@
 
 ## More awesome resources
 
-> [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript/blob/master/README-en.md) thank you @semlinker for curating the list!
+> [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript) thank you @semlinker for curating the list!
 
 ## Contributing
 
