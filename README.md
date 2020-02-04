@@ -67,6 +67,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide) by @ananthakumaran
 * [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
 * :octocat: [Typescript addin for](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
+* [Typescript tooling for Neovim](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
 
 #### Online
 
@@ -161,6 +162,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Tridactyl](https://github.com/tridactyl/tidactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 * :octocat: [armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 * :octocat: [n8n.io](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+* :octocat: [Dnote](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 
 ### Back-end API
 
