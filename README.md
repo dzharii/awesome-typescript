@@ -114,6 +114,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
   - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
 * [Zwitterion](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
 
+## Cloud Data Warehousing
+* :sparkles: [Crisp BigQuery](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+
 ## Module Bundlers
 * [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling
   - :scroll: [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support
@@ -124,7 +127,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
 * [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
 * [TsLint](https://github.com/palantir/tslint) - TypeScript linter by @palantir
-* [TypeScript Standard](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
+* [TypeScript Standard](https://github.com/e2tox/typescript-standard) - 
+ero-configuration TypeScript 2 Standard Validation
 * [typed-install](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 * [Interactive TypeScript AST Viewer](https://ast.carlosroso.com/) - Write TypeScript snippets and explore its AST.
 * [type-config](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
