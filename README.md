@@ -128,6 +128,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ## Tools
 * [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
+* [SweetIQ/schemats](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 * [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
 * [TsLint](https://github.com/palantir/tslint) - TypeScript linter by @palantir
 * [TypeScript Standard](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
