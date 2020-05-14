@@ -211,6 +211,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [io-ts](https://github.com/gcanti/io-ts) - Type validation at runtime
 * :octocat: [mokia](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
 * :octocat: [sub-events](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
+* :octocat: [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 
 # Video Courses
 
