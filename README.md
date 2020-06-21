@@ -213,6 +213,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [mokia](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
 * :octocat: [sub-events](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 * :octocat: [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
+* :octocat: [tslog](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
 
 # Video Courses
 
