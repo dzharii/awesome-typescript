@@ -152,7 +152,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
 * [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 * [type-plus](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
-* [funval](https://github.com/neuledge/funval) - Convert function validators to TypeScript types
+* [computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## Built with TypeScript
 ### Mobile
