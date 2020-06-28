@@ -118,6 +118,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ## Cloud Data Warehousing
 * :sparkles: [Crisp BigQuery](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+* [DDB-Table](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
 
 ## Module Bundlers
 * [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling
