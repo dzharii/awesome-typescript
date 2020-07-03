@@ -156,7 +156,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ## Validation
 * [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
 * [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
-* [runtypes](https://github.com/vriad/zod) - Runtime validation for static types
+* [runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 * [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 * [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 * [computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
