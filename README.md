@@ -149,11 +149,18 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 * [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 ### Runtime
-* [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
 * [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
 * [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 * [type-plus](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+
+## Validation
+* [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
+* [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+* [runtypes](https://github.com/vriad/zod) - Runtime validation for static types
+* [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
+* [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 * [computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+
 
 ## Built with TypeScript
 ### Mobile
