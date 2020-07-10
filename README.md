@@ -169,6 +169,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Web
 * :octocat: [Angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+* :octocat: [feednext.io](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 * :octocat: [ionic](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 * :octocat: [React-UWP](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
 * :octocat: [palantir/plottable](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
