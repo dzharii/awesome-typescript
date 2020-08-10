@@ -227,6 +227,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [sub-events](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 * :octocat: [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 * :octocat: [tslog](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
+* :octocat: [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
 # Video Courses
 
