@@ -230,6 +230,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [tslog](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
 * :octocat: [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 * :octocat: [statek](https://github.com/pie6k/statek) - Reactive state management library
+* :octocat: [Injex](https://www.injex.dev/) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
 
 # Video Courses
 
