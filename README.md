@@ -205,7 +205,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
-* :octocat: [alm - A next generation IDE just for TypeScript written in TypeScript + React](https://github.com/alm-tools/alm)
+* :octocat: [alm](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
+* :octocat: [SnowFS](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
 
 ### Design patterns
 * :octocat: [Design Patterns implementation](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
