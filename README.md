@@ -12,6 +12,23 @@
 
 Please take a quick look at the [contribution guidelines](/contributing.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
 
+## Contents
+
+- [Awesome TypeScript Essential Resources](#awesome-typescript-essential-resources)
+- [Typescript Project Starters](#typescript-project-starters)
+- [Books](#books)
+- [CLI and REPL](#cli-and-repl)
+- [IDE](#ide)
+- [Build Systems](#build-systems)
+- [Cloud Data Warehousing](#cloud-data-warehousing)
+- [Module Bundlers](#module-bundlers)
+- [CMS](#cms)
+- [Tools](#tools)
+- [Types](#types)
+- [Runtime](#runtime)
+- [Built with TypeScript: Mobile, Web, Back-end API, Standalone apps, Libraries](#built-with-typescript)
+- [Video Courses](#video-courses)
+
 ## Getting Started with (Awesome) TypeScript
 
 ### Awesome TypeScript Essential Resources
@@ -84,35 +101,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
 * [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
 
-##### Chrome Extension
-* [OctoLinker](https://github.com/OctoLinker/browser-extension)
-
-### Awesome TypeScript Videos
-
-* :tv: [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
-
-### TypeScript for...
-#### React
-* :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
-* :octocat: [Microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
-* :scroll: [typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
-* :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
-* :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
-* :octocat: [TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
-* :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
-* :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
-* :robot: [Convert React code to TypeScript automatically](https://github.com/lyft/react-javascript-to-typescript-transform)
-* :octocat: [React Server Example TSX](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
-* :octocat: [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
-* :octocat: [Typescript Monorepo CRA Example](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
-* :octocat: [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-* :scroll: [React TypeScript Kickstart Guide](https://sandstorm.github.io/typescript-react-app-kickstart-guide/) - In-depth, incl. boilerplate, cookbook & snipptes for Redux, Sass, Storybook and unit testing.
-* :stars: [Crisp React](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
-* :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
-
-## Aspect Oriented Programming
-* [Agent Framework](https://github.com/agentframework/agentframework) Create interceptor for your class and method using @decorators
-
 ## Build Systems
 * [Grunt](http://gruntjs.com/) tasks:
   - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
@@ -142,7 +130,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [type-config](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
 ## Types
-* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
 * [utility-types](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
 * [elm-ts](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
 * [ts-essentials](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
@@ -151,10 +139,12 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 * [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 * [typetype](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
+
 ### Runtime
 * [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
 * [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 * [type-plus](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+* [Agent Framework](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
 
 ## Validation
 * [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
@@ -164,7 +154,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 * [computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 * [json-schema-to-ts](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
-
 
 ## Built with TypeScript
 ### Mobile
@@ -190,9 +179,26 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [n8n.io](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 * :octocat: [Dnote](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 
-### Back-end API
+### Web/ReactJS
+* :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
+* :octocat: [Microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
+* :scroll: [typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
+* :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
+* :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
+* :octocat: [TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
+* :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
+* :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
+* :robot: [Convert React code to TypeScript automatically](https://github.com/lyft/react-javascript-to-typescript-transform)
+* :octocat: [React Server Example TSX](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
+* :octocat: [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
+* :octocat: [Typescript Monorepo CRA Example](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
+* :octocat: [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
+* :scroll: [React TypeScript Kickstart Guide](https://sandstorm.github.io/typescript-react-app-kickstart-guide/) - In-depth, incl. boilerplate, cookbook & snipptes for Redux, Sass, Storybook and unit testing.
+* :stars: [Crisp React](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
+* :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 
-* :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST api templating engine for Typescript
+### Back-end API
+* :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
 * :octocat: [LoopBack 4](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: https://loopback.io/)
 * :octocat: [FoalTS](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: https://foalts.org)
@@ -202,11 +208,13 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [ZenTS](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: https://zents.dev)
 * :octocat: [Booster Framework](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: https://booster.cloud)
 
-
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 * :octocat: [alm](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
 * :octocat: [SnowFS](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
+
+##### Chrome Extensions
+* [OctoLinker](https://github.com/OctoLinker/browser-extension)
 
 ### Design patterns
 * :octocat: [Design Patterns implementation](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
@@ -240,13 +248,12 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Injex](https://www.injex.dev/) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
 * :octocat: [tRPC](https://www.trpc.io/) - TypeScript toolkit for building end-to-end type-safe APIs
 
-
 # Video Courses
-
 ## :free: Free Courses
 * [Angular Applications with TypeScript](https://mva.microsoft.com/en-US/training-courses/angular-applications-with-typescript-14330) (Microsoft Virtual Academy)
 * [AngularJS with TypeScript made easy](https://www.youtube.com/watch?v=OZxnFB0yQHs) (SSW TV)
 * [Full Stack React GraphQL TypeScript Tutorial - 14 hour course](https://www.youtube.com/watch?v=I6ypD7qv3Z8) (YouTube)
+* [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 
 ## :dollar: Paid Courses
 * [TypeScript Fundamentals](https://www.pluralsight.com/courses/typescript) (Pluralsight)
