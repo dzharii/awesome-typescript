@@ -211,6 +211,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 * :octocat: [alm](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
+* :octocat: [App Outlet](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 * :octocat: [SnowFS](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
 
 ##### Chrome Extensions
