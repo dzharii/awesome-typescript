@@ -139,6 +139,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 * [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 * [typetype](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
+* [nominal](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
 
 ### Runtime
 * [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
