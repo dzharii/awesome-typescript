@@ -53,6 +53,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
 * [The Knests Stack](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 * [tRPC + Next.js](https://trpc.io/docs/nextjs/) - Full-stack starter projects for end-to-end type safe development with React
+* [nd.ts](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 
 ### Books
 * :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts](https://github.com/yfain/getts)
