@@ -66,6 +66,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :books: [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
 
 ### Blogs
+* [@captain-yossarian's blog](https://catchts.com/) - fully dedicated to static typings in TypeScript
 
 ### CLI and REPL
 * Use [ts-node](https://github.com/TypeStrong/ts-node) to run scripts or REPL
