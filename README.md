@@ -208,6 +208,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### Back-end API
 * :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
+  * :octocat: [Nestia](https://github.com/samchon/nestia) - Automatic SDK generator for the NestJS. It analyzes your backend source code in the compliation level and generates interaction library for the client developers. Therefore, server and client developers don't need any extra dedication, for the API interaction, like writing or reading the swagger documents.
 * :octocat: [LoopBack 4](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: https://loopback.io/)
 * :octocat: [FoalTS](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: https://foalts.org)
 * :octocat: [Enso](http://ensojs.netlify.com) - Typescript first Node.JS framework inspired by Domain Driven Design principles with a focus on composition and Developer Experience
@@ -237,6 +238,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 * :octocat: [InversifyJS](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 * :octocat: [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+  * :octocat: [Safe-TypeORM](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Therefore, you don't need to be suffered from the SQL runtime error, because they would be caught in the compile level. Also, you can concentrate only on how to design ORM and JSON structures because others like INSERT, SELECT and JOIN queries' composition and those performacne tuning are automated.
 * :octocat: [MikroORM](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 * :octocat: [Prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
 * :octocat: [TypeGQL](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
