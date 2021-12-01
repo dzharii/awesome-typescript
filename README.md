@@ -158,6 +158,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
 * [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 * [runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
+* [ts-codec](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 * [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 * [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 * [computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
