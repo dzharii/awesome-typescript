@@ -262,6 +262,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [tRPC](https://www.trpc.io/) - TypeScript toolkit for building end-to-end type-safe APIs
 * :octocat: [interface-forge](https://www.npmjs.com/package/interface-forge) - Test data factories using TypeScript types and interfaces
 * :octocat: [iter-ops](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+* :octocat: [Remult](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
 
 # Video Courses
 ## :free: Free Courses
