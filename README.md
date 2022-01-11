@@ -270,6 +270,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [AngularJS with TypeScript made easy](https://www.youtube.com/watch?v=OZxnFB0yQHs) (SSW TV)
 * [Full Stack React GraphQL TypeScript Tutorial - 14 hour course](https://www.youtube.com/watch?v=I6ypD7qv3Z8) (YouTube)
 * [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
+* [Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI) an overview of the main syntax constructs focusing on the benefits of using TypeScript as opposed to coding in JavaScript
 
 ## :dollar: Paid Courses
 * [TypeScript Fundamentals](https://www.pluralsight.com/courses/typescript) (Pluralsight)
