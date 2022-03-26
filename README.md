@@ -203,7 +203,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
 * :octocat: [Typescript Monorepo CRA Example](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
 * :octocat: [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-* :scroll: [React TypeScript Kickstart Guide](https://sandstorm.github.io/typescript-react-app-kickstart-guide/) - In-depth, incl. boilerplate, cookbook & snipptes for Redux, Sass, Storybook and unit testing.
 * :stars: [Crisp React](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 * :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 
