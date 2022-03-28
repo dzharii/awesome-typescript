@@ -224,6 +224,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [App Outlet](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 * :octocat: [SnowFS](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
 
+### Deployment tools
+* :cloud: [Stacktape](https://stacktape.com) - DevOps-free cloud framework with 0-config typescript deployment support.
+
 ##### Chrome Extensions
 * [OctoLinker](https://github.com/OctoLinker/browser-extension)
 
