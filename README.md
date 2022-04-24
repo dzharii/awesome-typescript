@@ -155,6 +155,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [type-plus](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 * [Agent Framework](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
 * [typescript-json](https://github.com/samchon/typescript-json) - 2x faster JSON string converter through the TypeScript transformer
+* [SunTori](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
 
 ## Validation
 * [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
