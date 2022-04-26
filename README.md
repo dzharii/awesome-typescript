@@ -95,6 +95,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
 * :octocat: [Typescript addin for](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
 * [Typescript tooling for Neovim](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
+* [Coc](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode. 
 
 #### Online
 
@@ -265,7 +266,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [interface-forge](https://www.npmjs.com/package/interface-forge) - Test data factories using TypeScript types and interfaces
 * :octocat: [iter-ops](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 * :octocat: [Remult](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
-
+* :octocat: [Jest](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
 # Video Courses
 ## :free: Free Courses
 * [Angular Applications with TypeScript](https://mva.microsoft.com/en-US/training-courses/angular-applications-with-typescript-14330) (Microsoft Virtual Academy)
