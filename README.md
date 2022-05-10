@@ -167,6 +167,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 * [computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 * [json-schema-to-ts](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
+* [Yunomix](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
 
 ## Built with TypeScript
 ### Mobile
