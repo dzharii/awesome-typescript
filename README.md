@@ -29,6 +29,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 - [Runtime](#runtime)
 - [Built with TypeScript: Mobile, Web, Back-end API, Standalone apps, Libraries](#built-with-typescript)
 - [Video Courses](#video-courses)
+- [Tutorials](#tutorials)
 
 ## Getting Started with (Awesome) TypeScript
 
@@ -284,6 +285,10 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
 * [TypeScript: The Complete Developer's Guide](https://www.udemy.com/typescript-the-complete-developers-guide/) (Udemy)
 * [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript/) (Manning)
+
+# Tutorials
+
+* [Converting your vanilla JavaScript app to TypeScript](https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript)
 
 ### Badges
 * [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)
