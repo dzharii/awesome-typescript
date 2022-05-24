@@ -29,6 +29,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 - [Runtime](#runtime)
 - [Built with TypeScript: Mobile, Web, Back-end API, Standalone apps, Libraries](#built-with-typescript)
 - [Video Courses](#video-courses)
+- [Tutorials](#tutorials)
 
 ## Getting Started with (Awesome) TypeScript
 
