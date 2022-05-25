@@ -275,6 +275,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Full Stack React GraphQL TypeScript Tutorial - 14 hour course](https://www.youtube.com/watch?v=I6ypD7qv3Z8) (YouTube)
 * [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 * [Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI) an overview of the main syntax constructs focusing on the benefits of using TypeScript as opposed to coding in JavaScript
+* [List of free online courses about Typescript](https://skillcombo.com/topic/typescript/free)
 
 ## :dollar: Paid Courses
 * [TypeScript Fundamentals](https://www.pluralsight.com/courses/typescript) (Pluralsight)
@@ -285,6 +286,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
 * [TypeScript: The Complete Developer's Guide](https://www.udemy.com/typescript-the-complete-developers-guide/) (Udemy)
 * [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript/) (Manning)
+* [List of paid online courses about Typescript](https://skillcombo.com/topic/typescript/)
 
 # Tutorials
 
