@@ -192,6 +192,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 * :octocat: [n8n.io](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 * :octocat: [Dnote](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
+* :octocat: [Thin Backend](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
 
 ### Web/ReactJS
 * :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
