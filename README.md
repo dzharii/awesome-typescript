@@ -270,6 +270,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [iter-ops](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 * :octocat: [Remult](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
 * :octocat: [Jest](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
+* :octocat: [diod](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
+
 # Video Courses
 ## :free: Free Courses
 * [Angular Applications with TypeScript](https://mva.microsoft.com/en-US/training-courses/angular-applications-with-typescript-14330) (Microsoft Virtual Academy)
