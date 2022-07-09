@@ -137,6 +137,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [type-config](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
 ## Types
+* [jsonup](https://github.com/tani/jsonup) - Compile-time JSON parser
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
 * [utility-types](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
 * [elm-ts](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
