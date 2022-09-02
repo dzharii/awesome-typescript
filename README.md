@@ -302,6 +302,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 # Tutorials
 
 * [Converting your vanilla JavaScript app to TypeScript](https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript)
+* [Difference Between TypeScript and JavaScript](https://www.scaler.com/topics/typescript-vs-javascript/)
 
 ### Badges
 * [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)
