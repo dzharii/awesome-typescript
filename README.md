@@ -139,6 +139,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typed-install](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 * [Interactive TypeScript AST Viewer](https://ast.carlosroso.com/) - Write TypeScript snippets and explore its AST.
 * [type-config](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+* [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
 
 ## Types
 * [jsonup](https://github.com/tani/jsonup) - Compile-time JSON parser
