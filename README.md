@@ -156,6 +156,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [nominal](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
 * [@tool-belt/type-predicates](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
 * [getmytypes](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
+* [ts-toolbelt](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
 
 ### Runtime
 * [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
