@@ -61,6 +61,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :ok_man: [ts-express-boilerplate](https://github.com/d4rkstar/ts-express-boilerplate) - ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access.
 
 ### Books
+* :books: [TypeScript in 50 Lessons](https://typescript-book.com/) by Stefan Baumgartner
 * :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts](https://github.com/yfain/getts)
 * :books: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
 * :books: [Angular 2 Development with TypeScript (2016)](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
