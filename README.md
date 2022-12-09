@@ -69,6 +69,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :books: [Mastering TypeScript 2nd Ed.](https://www.packtpub.com/application-development/mastering-typescript-second-edition) by Nathan Rozentals
 * :books: [Beginning Angular 4 with TypeScript](https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674) by Greg Lim
 * :books: [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
+* :books: [Effective TypeScript](https://www.oreilly.com/library/view/effective-typescript/9781492053736/) by Dan Vanderkam
 
 ### Reference Lists
 * [TypeScript Reference for JS developers](https://welldan97.github.io/typescript-reference/) - Glossary of keywords, operators, statements and directives
