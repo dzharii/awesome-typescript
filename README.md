@@ -304,6 +304,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
 * [TypeScript: The Complete Developer's Guide](https://www.udemy.com/typescript-the-complete-developers-guide/) (Udemy)
 * [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript/) (Manning)
+* [Mastering TypeScript - 2022 Edition](https://www.udemy.com/course/learn-typescript/) (Udemy)
 * [List of paid online courses about Typescript](https://skillcombo.com/topic/typescript/)
 
 # Tutorials
