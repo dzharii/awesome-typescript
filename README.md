@@ -204,6 +204,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [n8n.io](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 * :octocat: [Dnote](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 * :octocat: [Thin Backend](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
+* :octocat: [Flowbite](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
 
 ### Web/ReactJS
 * :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
@@ -222,6 +223,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :stars: [Crisp React](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 * :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 * :octocat: [Materio Free MUI React NextJS Typescript Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
+* :octocat: [Flowbite React](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
 
 ### Back-end API
 * :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
