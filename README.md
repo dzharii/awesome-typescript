@@ -166,7 +166,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 * [type-plus](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 * [Agent Framework](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
-* [typescript-json](https://github.com/samchon/typescript-json) - Super-fast runtime type checkers (validators) and 5x faster `JSON.stringify()` function, with only line. For reference, only `typscript-json` can validate complicate union type.
 * [SunTori](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
 
 ## Validation
@@ -179,6 +178,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 * [json-schema-to-ts](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 * [Yunomix](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
+* [typia](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
 
 ## Built with TypeScript
 ### Mobile
@@ -228,8 +228,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### Back-end API
 * :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
-  * :octocat: [nestia](https://github.com/samchon/nestia) - Automatic SDK and Swagger generator for the `NestJS`, evoled than ever. It does not require any swagger or DTO class decorator, therefore using pure interface typed DTO is possible.
-  * :octocat: [nestia-helper](https://github.com/samchon/nestia-helper) - Helper library of `NestJS`, which boosts up `JSON.stringify()` functions about 5x times faster, of the API responses. Also, converts `TypeGuardError` of [`TSON.assertType`](https://github.com/samchon/typescript-json#runtime-type-checkers) to 400 status error automatically, therefore you can easily validate client request with only one line.
+  * :octocat: [nestia](https://github.com/samchon/nestia) - 15,000x faster validation decorators than `class-validator` and Swagger/SDK generators.
 * :octocat: [LoopBack 4](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: https://loopback.io/)
 * :octocat: [FoalTS](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: https://foalts.org)
 * :octocat: [Enso](http://ensojs.netlify.com) - Typescript first Node.JS framework inspired by Domain Driven Design principles with a focus on composition and Developer Experience
