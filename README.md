@@ -31,6 +31,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 - [Built with TypeScript: Mobile, Web, Back-end API, Standalone apps, Libraries](#built-with-typescript)
 - [Video Courses](#video-courses)
 - [Tutorials](#tutorials)
+- [Roadmap](#roadmap)
 
 ## Getting Started with (Awesome) TypeScript
 
@@ -315,6 +316,10 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 * [Converting your vanilla JavaScript app to TypeScript](https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript)
 * [Difference Between TypeScript and JavaScript](https://www.scaler.com/topics/typescript-vs-javascript/)
+
+# Roadmap
+
+* [TypeScript Roadmap](https://roadmap.sh/typescript)
 
 ### Badges
 * [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)
