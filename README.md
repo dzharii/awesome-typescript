@@ -300,6 +300,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 * [Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI) an overview of the main syntax constructs focusing on the benefits of using TypeScript as opposed to coding in JavaScript
 * [List of free online courses about Typescript](https://skillcombo.com/topic/typescript/free)
+* [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
 
 ## :dollar: Paid Courses
 * [TypeScript Fundamentals](https://www.pluralsight.com/courses/typescript) (Pluralsight)
