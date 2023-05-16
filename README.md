@@ -61,6 +61,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [nd.ts](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 * :octocat: [samchon/backend](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
 * :ok_man: [ts-express-boilerplate](https://github.com/d4rkstar/ts-express-boilerplate) - ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access.
+* [create-typescript-app](https://github.com/hein-htut-aung/create-typescript-app) - provides a starting point for TypeScript web applications. pnpm, Rollup, Jest, and CSS Modules with SCSS.
 
 ### Books
 * :books: [TypeScript in 50 Lessons](https://typescript-book.com/) by Stefan Baumgartner
