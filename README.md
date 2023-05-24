@@ -17,6 +17,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 - [Awesome TypeScript Essential Resources](#awesome-typescript-essential-resources)
 - [Typescript Project Starters](#typescript-project-starters)
 - [Books](#books)
+- [Reference lists](#reference-lists)
 - [Blogs](#blogs)
 - [CLI and REPL](#cli-and-repl)
 - [IDE](#ide)
@@ -29,6 +30,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 - [Runtime](#runtime)
 - [Built with TypeScript: Mobile, Web, Back-end API, Standalone apps, Libraries](#built-with-typescript)
 - [Video Courses](#video-courses)
+- [Tutorials](#tutorials)
+- [Roadmap](#roadmap)
 
 ## Getting Started with (Awesome) TypeScript
 
@@ -38,11 +41,12 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
 * :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
-* :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov](https://github.com/DefinitelyTyped/DefinitelyTyped)
+* :octocat: [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
 * :octocat: [Type search](https://aka.ms/typings), search for typings on npm
 * :books: [Community Curated Resources](https://hackr.io/tutorials/learn-typescript)
 * :octocat: [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 * :computer: [Should You Learn TypeScript? (Benefits & Resources)](https://snipcart.com/blog/learn-typescript-why-use-ts)
+* :computer: [Learn how to unleash the full potential of the Turing Complete type system of TypeScript!](https://type-level-typescript.com), 💵 online course with free first 5 chapters by [Gabriel Vergnaud](https://twitter.com/GabrielVergnaud)
 
 ### Typescript Project Starters
 * [typescript-starter](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
@@ -53,11 +57,14 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
 * [typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
 * [The Knests Stack](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
-* [tRPC + Next.js](https://trpc.io/docs/nextjs/) - Full-stack starter projects for end-to-end type safe development with React
+* [tRPC + Next.js](https://trpc.io/docs/nextjs/introduction) - Full-stack starter projects for end-to-end type safe development with React
 * [nd.ts](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 * :octocat: [samchon/backend](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
+* :ok_man: [ts-express-boilerplate](https://github.com/d4rkstar/ts-express-boilerplate) - ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access.
+* [create-typescript-app](https://github.com/hein-htut-aung/create-typescript-app) - provides a starting point for TypeScript web applications. pnpm, Rollup, Jest, and CSS Modules with SCSS.
 
 ### Books
+* :books: [TypeScript in 50 Lessons](https://typescript-book.com/) by Stefan Baumgartner
 * :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts](https://github.com/yfain/getts)
 * :books: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
 * :books: [Angular 2 Development with TypeScript (2016)](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
@@ -66,6 +73,11 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :books: [Beginning Angular 4 with TypeScript](https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674) by Greg Lim
 * :books: [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
 * :books: [Essential TypeScript 5](https://www.manning.com/books/essential-typescript-5) - Third edition of the bestselling guide to TypeScript. (by Adam Freeman)
+* :books: [Effective TypeScript](https://www.oreilly.com/library/view/effective-typescript/9781492053736/) by Dan Vanderkam
+* :books: [Advanced TypeScript 3 Programming Projects](https://www.packtpub.com/product/advanced-typescript-3-programming-projects/9781789133042) by Peter O'Hanlon
+
+### Reference Lists
+* [TypeScript Reference for JS developers](https://welldan97.github.io/typescript-reference/) - Glossary of keywords, operators, statements and directives
 
 ### Blogs
 * [@captain-yossarian's blog](https://catchts.com/) - fully dedicated to static typings in TypeScript
@@ -96,6 +108,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
 * :octocat: [Typescript addin for](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
 * [Typescript tooling for Neovim](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
+* [Coc](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode. 
 
 #### Online
 
@@ -130,13 +143,15 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
 * [SweetIQ/schemats](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 * [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
-* [TsLint](https://github.com/palantir/tslint) - TypeScript linter by @palantir
 * [TypeScript Standard](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
 * [typed-install](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 * [Interactive TypeScript AST Viewer](https://ast.carlosroso.com/) - Write TypeScript snippets and explore its AST.
 * [type-config](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+* [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
+* [dep-tree](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
 
 ## Types
+* [jsonup](https://github.com/tani/jsonup) - Compile-time JSON parser
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
 * [utility-types](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
 * [elm-ts](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
@@ -149,12 +164,14 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [nominal](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
 * [@tool-belt/type-predicates](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
 * [getmytypes](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
+* [ts-toolbelt](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
 
 ### Runtime
 * [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
 * [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 * [type-plus](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 * [Agent Framework](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
+* [SunTori](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
 
 ## Validation
 * [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
@@ -165,11 +182,13 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 * [computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 * [json-schema-to-ts](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
+* [Yunomix](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
+* [typia](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
 
 ## Built with TypeScript
 ### Mobile
 * :octocat: [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
-* [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
+* [Monaco Editor](https://microsoft.github.io/monaco-editor/)
 
 ### Web
 * :octocat: [Angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
@@ -189,6 +208,10 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 * :octocat: [n8n.io](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 * :octocat: [Dnote](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
+* :octocat: [Thin Backend](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
+* :octocat: [Flowbite](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
+* :octocat: [ILLA Cloud](https://www.illacloud.com/) - Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes. 
+* :octocat: [Treehouse](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 
 ### Web/ReactJS
 * :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
@@ -204,14 +227,16 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
 * :octocat: [Typescript Monorepo CRA Example](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
 * :octocat: [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-* :scroll: [React TypeScript Kickstart Guide](https://sandstorm.github.io/typescript-react-app-kickstart-guide/) - In-depth, incl. boilerplate, cookbook & snipptes for Redux, Sass, Storybook and unit testing.
 * :stars: [Crisp React](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 * :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
+* :octocat: [Materio Free MUI React NextJS Typescript Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
+* :octocat: [Flowbite React](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
 
 ### Back-end API
+* :octocat: [Actio](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
 * :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
-  * :octocat: [Nestia](https://github.com/samchon/nestia) - Automatic SDK generator for the NestJS. It analyzes your backend source code in the compliation level and generates interaction library for the client developers. Therefore, server and client developers don't need any extra dedication, for the API interaction, like writing or reading the swagger documents.
+  * :octocat: [nestia](https://github.com/samchon/nestia) - 15,000x faster validation decorators than `class-validator` and Swagger/SDK generators.
 * :octocat: [LoopBack 4](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: https://loopback.io/)
 * :octocat: [FoalTS](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: https://foalts.org)
 * :octocat: [Enso](http://ensojs.netlify.com) - Typescript first Node.JS framework inspired by Domain Driven Design principles with a focus on composition and Developer Experience
@@ -228,6 +253,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ##### Chrome Extensions
 * [OctoLinker](https://github.com/OctoLinker/browser-extension)
+* [lc-mate](https://github.com/cglotr/lc-mate) - Extension that adds contest rating to usernames in LC
 
 ### Design patterns
 * :octocat: [Design Patterns implementation](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
@@ -241,9 +267,11 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 * :octocat: [InversifyJS](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 * :octocat: [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-  * :octocat: [Safe-TypeORM](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Therefore, you don't need to be suffered from the SQL runtime error, because they would be caught in the compile level. Also, you can concentrate only on how to design ORM and JSON structures because others like INSERT, SELECT and JOIN queries' composition and those performacne tuning are automated.
+  * :octocat: [Safe-TypeORM](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
 * :octocat: [MikroORM](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 * :octocat: [Prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+* :octocat: [Neuledge](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
+* :octocat: [Typetta](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
 * :octocat: [TypeGQL](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
 * :octocat: [TSTL](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
   * :octocat: [ECol](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
@@ -264,6 +292,10 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [interface-forge](https://www.npmjs.com/package/interface-forge) - Test data factories using TypeScript types and interfaces
 * :octocat: [iter-ops](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 * :octocat: [Remult](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
+* :octocat: [Jest](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
+* :octocat: [diod](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
+* :octocat: [@deliberative/crypto](https://github.com/deliberative/crypto) - A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser.
+* :octocat: [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application 
 
 # Video Courses
 ## :free: Free Courses
@@ -272,6 +304,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Full Stack React GraphQL TypeScript Tutorial - 14 hour course](https://www.youtube.com/watch?v=I6ypD7qv3Z8) (YouTube)
 * [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 * [Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI) an overview of the main syntax constructs focusing on the benefits of using TypeScript as opposed to coding in JavaScript
+* [List of free online courses about Typescript](https://skillcombo.com/topic/typescript/free)
+* [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
 
 ## :dollar: Paid Courses
 * [TypeScript Fundamentals](https://www.pluralsight.com/courses/typescript) (Pluralsight)
@@ -282,6 +316,17 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
 * [TypeScript: The Complete Developer's Guide](https://www.udemy.com/typescript-the-complete-developers-guide/) (Udemy)
 * [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript/) (Manning)
+* [Mastering TypeScript - 2022 Edition](https://www.udemy.com/course/learn-typescript/) (Udemy)
+* [List of paid online courses about Typescript](https://skillcombo.com/topic/typescript/)
+
+# Tutorials
+
+* [Converting your vanilla JavaScript app to TypeScript](https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript)
+* [Difference Between TypeScript and JavaScript](https://www.scaler.com/topics/typescript-vs-javascript/)
+
+# Roadmap
+
+* [TypeScript Roadmap](https://roadmap.sh/typescript)
 
 ### Badges
 * [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)
