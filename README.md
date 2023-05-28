@@ -184,6 +184,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [json-schema-to-ts](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 * [Yunomix](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
 * [typia](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
+* [fta](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
 
 ## Built with TypeScript
 ### Mobile
