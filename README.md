@@ -186,6 +186,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Yunomix](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
 * [typia](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
 * [fta](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
+* [dto-classes](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
 
 ## Built with TypeScript
 ### Mobile
