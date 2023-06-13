@@ -76,6 +76,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :books: [Essential TypeScript 5](https://www.manning.com/books/essential-typescript-5) - Third edition of the bestselling guide to TypeScript. (by Adam Freeman)
 * :books: [Effective TypeScript](https://www.oreilly.com/library/view/effective-typescript/9781492053736/) by Dan Vanderkam
 * :books: [Advanced TypeScript 3 Programming Projects](https://www.packtpub.com/product/advanced-typescript-3-programming-projects/9781789133042) by Peter O'Hanlon
+* :books: [The Concise TypeScript Book (Free and Open Source)](https://github.com/gibbok/typescript-book) by Simone Poggiali
 
 ### Reference Lists
 * [TypeScript Reference for JS developers](https://welldan97.github.io/typescript-reference/) - Glossary of keywords, operators, statements and directives
