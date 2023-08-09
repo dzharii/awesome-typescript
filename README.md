@@ -140,6 +140,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ## CMS
 * [Factor](https://factor.dev) - The Javascript CMS (TypeScript supported natively)
+* [Graphweaver](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## Tools
 * [sqlx-ts](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
