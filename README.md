@@ -302,7 +302,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Jest](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
 * :octocat: [diod](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 * :octocat: [@deliberative/crypto](https://github.com/deliberative/crypto) - A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser.
-* :octocat: [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application 
+* :octocat: [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
+* :octocat: [sweet-monads](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators. 
 
 # Video Courses
 ## :free: Free Courses
