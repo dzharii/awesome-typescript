@@ -313,6 +313,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI) an overview of the main syntax constructs focusing on the benefits of using TypeScript as opposed to coding in JavaScript
 * [List of free online courses about Typescript](https://skillcombo.com/topic/typescript/free)
 * [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
+* [Building CRM from scratch with Typescript and Bun](https://www.youtube.com/watch?v=l4QjeBEkNLc) - Building a real-world CRM system from scratch, without big frameworks. Bun, Typescript and Tailwind.
 
 ## :dollar: Paid Courses
 * [TypeScript Fundamentals](https://www.pluralsight.com/courses/typescript) (Pluralsight)
