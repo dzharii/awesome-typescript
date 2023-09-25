@@ -336,6 +336,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 # Roadmap
 
 * [TypeScript Roadmap](https://roadmap.sh/typescript)
+* [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo) by OfferZen Origins
+  > The Documentary features core contributors and community members like Anders Hejlsberg, Steve Lucco, Luke Hoban, Daniel Rosenwasser, Ryan Cavanaugh, Amanda Silver, Matt Pocock, Josh Goldberg & many more!
 
 ### Badges
 * [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/)
