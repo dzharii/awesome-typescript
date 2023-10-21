@@ -181,6 +181,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ## Validation
 * [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
 * [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+* [valibot](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 * [runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 * [ts-codec](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 * [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
