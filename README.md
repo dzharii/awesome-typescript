@@ -248,6 +248,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### Back-end API
 * :octocat: [Actio](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
 * :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
+* :octocat: [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 * :octocat: [Hono](https://hono.dev/) - Hono is a small, simple, and ultrafast web framework for the Edges. It works on any JavaScript runtime
 * :octocat: [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: https://nestjs.com/)
   * :octocat: [nestia](https://github.com/samchon/nestia) - 20,000x faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, it supports SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) generation, and even possible to migrate NestJS project only by `swagger.json` file. 🚀 (see also: https://nestia.io/docs)
