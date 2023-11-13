@@ -205,6 +205,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Web
 * :octocat: [Angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+* :octocat: [It-Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX
 * :octocat: [feednext.io](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 * :octocat: [ionic](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 * :octocat: [React-UWP](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
