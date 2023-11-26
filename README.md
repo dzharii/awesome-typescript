@@ -86,6 +86,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [@captain-yossarian's blog](https://catchts.com/) - fully dedicated to static typings in TypeScript
 
 ### CLI and REPL
+* [Taze](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
 * Use [ts-node](https://github.com/TypeStrong/ts-node) to run scripts or REPL
 * How to make executable typescript scripts:
   1. Make sure you have `npx` (shipped with `npm >= 5.2`) and `typescript` package is installed
