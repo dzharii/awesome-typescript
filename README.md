@@ -129,6 +129,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Grunt](http://gruntjs.com/) tasks:
   - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
 * [Zwitterion](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+* [Nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 
 ## Cloud Data Warehousing
 * :sparkles: [Crisp BigQuery](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
