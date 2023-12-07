@@ -137,6 +137,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ## Module Bundlers
 * [Fram](https://farm-fe.github.io/) - Extremely fast Vite-compatible web build tool written in Rust
+* [Rspack](https://www.rspack.dev/) - A fast Rust-based web bundler 🦀️
 * [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 * [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling
   - :scroll: [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support
