@@ -32,6 +32,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 - [Video Courses](#video-courses)
 - [Tutorials](#tutorials)
 - [Roadmap](#roadmap)
+- [Acknowledgements](#acknowledgements)
 
 ## Getting Started with (Awesome) TypeScript
 
@@ -364,3 +365,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
  * [@angularjs](https://twitter.com/angularjs) - Official Angularjs Twitter using Typescript Since 2.0
  * [@jntrnr](https://twitter.com/jntrnr) - Typescript Program Manager at Microsoft
  * [@ahejlsberg](https://twitter.com/ahejlsberg) - Technical Fellow at Microsoft involved with the Typescript project
+
+### Acknowledgements
+> (added: 2023) A new section to say thank you for the contributions.
+
+ - 2023 - ⚒ Thank you Hamza ( @Hamza12700 https://github.com/Hamza12700 ) for [more than 15 merged pull requests](https://github.com/dzharii/awesome-typescript/pulls?q=is%3Apr+author%3AHamza12700+is%3Aclosed). Great contribution to keeping this list up-to-date with modern TypeScript projects. **Contributor of the year 2023**. 
