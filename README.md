@@ -26,6 +26,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 - [Module Bundlers](#module-bundlers)
 - [CMS](#cms)
 - [Tools](#tools)
+- [CSS In JS With Types](#css-in-js-with-types)
 - [Types](#types)
 - [Runtime](#runtime)
 - [Built with TypeScript: Mobile, Web, Back-end API, Standalone apps, Libraries](#built-with-typescript)
@@ -180,6 +181,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [getmytypes](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
 * [ts-toolbelt](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
 * [string-ts](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
+
+## CSS In JS With Types
 
 ### Runtime
 * [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
