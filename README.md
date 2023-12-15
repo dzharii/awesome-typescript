@@ -183,6 +183,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [string-ts](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
 
 ## CSS In JS With Types
+* [PandaCSS](https://panda-css.com/) - CSS-in-JS with build time generated styles, RSC compatible, multi-variant support, and best-in-class developer experience
 
 ### Runtime
 * [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
