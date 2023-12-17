@@ -184,6 +184,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ## CSS In JS With Types
 * [PandaCSS](https://panda-css.com/) - CSS-in-JS with build time generated styles, RSC compatible, multi-variant support, and best-in-class developer experience
+* [Vanilla-Extract](https://vanilla-extract.style/) - Use TypeScript as your preprocessor. Write type‑safe, locally scoped classes, variables and themes, then generate static CSS files at build time
 
 ### Runtime
 * [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
