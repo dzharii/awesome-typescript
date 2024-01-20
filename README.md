@@ -272,6 +272,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [tinyhttp](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
 * :octocat: [ZenTS](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: https://zents.dev)
 * :octocat: [Booster Framework](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: https://booster.cloud)
+* :octocat: [Differential](https://github.com/differentialhq/differential) - Break up your monolithic Typescript service into highly malleable and composable services, without the boilerplate.
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
