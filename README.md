@@ -164,6 +164,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [type-config](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 * [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
 * [dep-tree](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
+* [itertools-ts](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
 ## Types
 * [jsonup](https://github.com/tani/jsonup) - Compile-time JSON parser
