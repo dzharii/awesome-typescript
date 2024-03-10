@@ -196,6 +196,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [SunTori](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
 
 ## Validation
+* [@core/match](https://github.com/tani/ts-match) - Type-safe destructuring assignment with pattern-match validation
 * [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
 * [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 * [valibot](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
