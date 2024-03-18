@@ -229,6 +229,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
 * :octocat: [Bobril](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: http://bobril.com/)
 * :octocat: [Stencil](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
+* :octocat: [Langfuse](https://github.com/langfuse/langfuse) - Open source LLM engineering platform 🪢 - Tracing, Prompt Mgmt, Evaluations, Analytics
 * :octocat: [redux-zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
 * :octocat: [wretch](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 * :octocat: [Cycle.js](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
