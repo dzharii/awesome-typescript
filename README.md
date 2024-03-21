@@ -165,6 +165,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
 * [dep-tree](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
 * [itertools-ts](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+* [ParaglideJS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) - An i18n compiler that generates fully typesafe translations
 
 ## Types
 * [jsonup](https://github.com/tani/jsonup) - Compile-time JSON parser
