@@ -143,7 +143,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Rspack](https://www.rspack.dev/) - A fast Rust-based web bundler 🦀️
 * [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 * [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling
-* [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support
 * [Browserify](http://browserify.org/) - CommonJS module bundler. Does not support TypeScript "out of the box", but can be applied with * [Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify)
 * [fuse-box](https://github.com/fuse-box/fuse-box) | [http://fuse-box.org/](http://fuse-box.org/) - typescript sample: [fuse-box-ts-react-reflux-seed](https://github.com/fuse-box/fuse-box-ts-react-reflux-seed)
 
@@ -161,7 +160,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
 * [TypeScript Standard](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
 * [typed-install](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
-* [Interactive TypeScript AST Viewer](https://ast.carlosroso.com/) - Write TypeScript snippets and explore its AST.
 * [type-config](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 * [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
 * [dep-tree](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
@@ -250,7 +248,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
 * :scroll: [typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
 * :octocat: [jsxtyper](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
-* :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 * :octocat: [TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
 * :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
 * :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
@@ -276,7 +273,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Enso](http://ensojs.netlify.com) - Typescript first Node.JS framework inspired by Domain Driven Design principles with a focus on composition and Developer Experience
 * :octocat: [Libstack](https://libstack.io) - A collection of various modules to create Typescript server easily and ready to be deployed on Docker.
 * :octocat: [tinyhttp](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
-* :octocat: [ZenTS](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: https://zents.dev)
+* :octocat: [ZenTS](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications
 * :octocat: [Booster Framework](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: https://booster.cloud)
 
 ### Standalone apps
@@ -343,7 +340,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [Full Stack React GraphQL TypeScript Tutorial - 14 hour course](https://www.youtube.com/watch?v=I6ypD7qv3Z8) (YouTube)
 * [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 * [Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI) an overview of the main syntax constructs focusing on the benefits of using TypeScript as opposed to coding in JavaScript
-* [List of free online courses about Typescript](https://skillcombo.com/topic/typescript/free)
 * [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
 * [Building CRM from scratch with Typescript and Bun](https://www.youtube.com/watch?v=l4QjeBEkNLc) - Building a real-world CRM system from scratch, without big frameworks. Bun, Typescript and Tailwind.
 
@@ -357,7 +353,6 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TypeScript: The Complete Developer's Guide](https://www.udemy.com/typescript-the-complete-developers-guide/) (Udemy)
 * [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript/) (Manning)
 * [Mastering TypeScript - 2022 Edition](https://www.udemy.com/course/learn-typescript/) (Udemy)
-* [List of paid online courses about Typescript](https://skillcombo.com/topic/typescript/)
 
 # Tutorials
 
