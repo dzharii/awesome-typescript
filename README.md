@@ -196,6 +196,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [type-plus](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 * [Agent Framework](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
 * [SunTori](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
+* [config](https://github.com/mrspartak/config) - Runtime configuration resolver
 
 ## Validation
 * [@core/match](https://github.com/tani/ts-match) - Type-safe destructuring assignment with pattern-match validation
