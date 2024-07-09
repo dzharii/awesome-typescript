@@ -334,6 +334,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
 * :octocat: [sweet-monads](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 * :octocat: [simple-mask-money](https://github.com/codermarcos/simple-mask-money) - 💰 Simple mask money is a light, safe and typed package to format money!
+* :octocat: [Next Colors](https://github.com/iamlite/next-colors) - Next-Colors is a comprehensive color manipulation library for Next.js and React applications.
 
 # Video Courses
 ## :free: Free Courses
