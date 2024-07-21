@@ -283,6 +283,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [alm](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
 * :octocat: [App Outlet](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 * :octocat: [SnowFS](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
+* :octocat: [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
 ##### Chrome Extensions
 * [OctoLinker](https://github.com/OctoLinker/browser-extension)
