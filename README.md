@@ -288,6 +288,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ##### Chrome Extensions
 * [OctoLinker](https://github.com/OctoLinker/browser-extension)
 * [lc-mate](https://github.com/cglotr/lc-mate) - Extension that adds contest rating to usernames in LC
+* [native-messaging-typescript](https://github.com/guest271314/native-messaging-typescript) TypeScript Native Messaging host
 
 ### Design patterns
 * :octocat: [Design Patterns implementation](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
