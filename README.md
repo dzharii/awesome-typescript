@@ -293,6 +293,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Design patterns
 * :octocat: [Design Patterns implementation](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+* :octocat: [Real World Design Patterns](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
 
 ### Libraries
 * :octocat: [SuperJSON](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
