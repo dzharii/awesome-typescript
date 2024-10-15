@@ -295,6 +295,9 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Design Patterns implementation](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
 * :octocat: [Real World Design Patterns](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
 
+### Decorators
+- :octocat: [Performance Decorators](https://github.com/RyanMyrvold/Performance-Decorators) - A collection of TypeScript decorators for performance optimization, including execution time logging, memory usage monitoring, and more.
+
 ### Libraries
 * :octocat: [SuperJSON](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
 * :octocat: [Procedurem](https://github.com/ImVexed/Procedurem) - A Small (2kb) And Performant Bi-Directional RPC Library Using WebSockets.
