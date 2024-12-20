@@ -68,6 +68,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :ok_man: [ts-express-boilerplate](https://github.com/d4rkstar/ts-express-boilerplate) - ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access.
 * [create-typescript-app](https://github.com/hein-htut-aung/create-typescript-app) - provides a starting point for TypeScript web applications. pnpm, Rollup, Jest, and CSS Modules with SCSS.
 * [ts-vite-npm-template](https://github.com/kaandesu/ts-vite-npm-template) - An all-in-one solution for crafting TypeScript-based NPM packages with Vite, complete with built-in GitHub Pages live-demo deployment, automated test-and-build workflows, and Vite-powered unit test configuration, including coverage analysis and a README.md template for your package.
+* [chrome-extension-ts](https://github.com/tahzeer/chrome-extension-ts) - Template for scaffolding a chrome extension project with vanilla typescript, uses parcel build tool
 
 ### Books
 * :books: [TypeScript in 50 Lessons](https://typescript-book.com/) by Stefan Baumgartner
