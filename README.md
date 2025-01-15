@@ -345,7 +345,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Color-Core](https://github.com/iamlite/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
 * :octocat: [PigmentTS](https://github.com/Jay-Karia/pigment-ts) - A lightweight utility for color manipulation and conversion.
 * :octocat: [file-graph](https://github.com/DIY0R/file-graph) - Library for storing graphs in files and making queries to them.
-
+* :octocat: [@diy0r/nestjs-rabbitmq](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
+  
 # LLM
 * [duckduckgo-ai-chat](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
 
