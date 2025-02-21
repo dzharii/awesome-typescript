@@ -138,6 +138,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ## Cloud Data Warehousing
 * :sparkles: [Crisp BigQuery](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
 * [DDB-Table](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
+* [DynamoDB-Toolbox](https://github.com/dynamodb-toolbox/dynamodb-toolbox) Light-weight and type-safe query builder for AWS DynamoDB
 
 ## Module Bundlers
 * [Farm](https://farm-fe.github.io/) - Extremely fast Vite-compatible web build tool written in Rust
@@ -346,6 +347,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [PigmentTS](https://github.com/Jay-Karia/pigment-ts) - A lightweight utility for color manipulation and conversion.
 * :octocat: [file-graph](https://github.com/DIY0R/file-graph) - Library for storing graphs in files and making queries to them.
 * :octocat: [@diy0r/nestjs-rabbitmq](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
+* :octocat: [Onion.JS](https://github.com/ThomasAribart/onion.js) - Design and apply wrappers (i.e. high-order functions) without breaking types! Based on [HotScript](https://github.com/gvergnaud/hotscript) high-order types.
   
 # LLM
 * [duckduckgo-ai-chat](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
