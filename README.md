@@ -116,7 +116,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
 * :octocat: [Typescript addin for](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
 * [Typescript tooling for Neovim](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
-* [Coc](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode. 
+* [Coc](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode.
 
 #### Online
 
@@ -244,7 +244,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Dnote](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 * :octocat: [Thin Backend](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
 * :octocat: [Flowbite](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
-* :octocat: [ILLA Cloud](https://www.illacloud.com/) - Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes. 
+* :octocat: [ILLA Cloud](https://www.illacloud.com/) - Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes.
 * :octocat: [Treehouse](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 
 ### Web/ReactJS
@@ -279,6 +279,10 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [tinyhttp](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
 * :octocat: [ZenTS](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications
 * :octocat: [Booster Framework](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: https://booster.cloud)
+
+### AI
+
+* :octocat: [MastraAI](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
@@ -348,7 +352,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [file-graph](https://github.com/DIY0R/file-graph) - Library for storing graphs in files and making queries to them.
 * :octocat: [@diy0r/nestjs-rabbitmq](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
 * :octocat: [Onion.JS](https://github.com/ThomasAribart/onion.js) - Design and apply wrappers (i.e. high-order functions) without breaking types! Based on [HotScript](https://github.com/gvergnaud/hotscript) high-order types.
-  
+
 # LLM
 * [duckduckgo-ai-chat](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
 
@@ -397,4 +401,4 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### Acknowledgements
 > (added: 2023) A new section to say thank you for the contributions.
 
- - 2023 - ⚒ Thank you Hamza ( @Hamza12700 https://github.com/Hamza12700 ) for [more than 15 merged pull requests](https://github.com/dzharii/awesome-typescript/pulls?q=is%3Apr+author%3AHamza12700+is%3Aclosed). Great contribution to keeping this list up-to-date with modern TypeScript projects. **Contributor of the year 2023**. 
+ - 2023 - ⚒ Thank you Hamza ( @Hamza12700 https://github.com/Hamza12700 ) for [more than 15 merged pull requests](https://github.com/dzharii/awesome-typescript/pulls?q=is%3Apr+author%3AHamza12700+is%3Aclosed). Great contribution to keeping this list up-to-date with modern TypeScript projects. **Contributor of the year 2023**.
