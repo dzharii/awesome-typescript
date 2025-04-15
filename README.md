@@ -52,6 +52,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :computer: [Learn how to unleash the full potential of the Turing Complete type system of TypeScript!](https://type-level-typescript.com), 💵 online course with free first 5 chapters by [Gabriel Vergnaud](https://twitter.com/GabrielVergnaud)
 * :octocat: [Codebook](https://github.com/gvanastasov/codebook-typescript) read and run small code snippets to progressively learn TypeScript from the basic to advanced concepts.
 * :octocat: [Type Challenges](https://github.com/type-challenges/type-challenges) Collection of TypeScript type challenges with online judge.
+- :books: [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide) A concise set of conventions and best practices for creating consistent, maintainable code.
 
 ### Typescript Project Starters
 * [typescript-starter](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
