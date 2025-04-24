@@ -354,6 +354,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [file-graph](https://github.com/DIY0R/file-graph) - Library for storing graphs in files and making queries to them.
 * :octocat: [@diy0r/nestjs-rabbitmq](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
 * :octocat: [Onion.JS](https://github.com/ThomasAribart/onion.js) - Design and apply wrappers (i.e. high-order functions) without breaking types! Based on [HotScript](https://github.com/gvergnaud/hotscript) high-order types.
+* :octocat: [text-smart-trimmer](https://github.com/vaidehimani/text-smart-trimmer) - A lightweight TypeScript utility for trimming text while choosing to preserve word boundaries, punctuation, and custom suffixes.
 
 # LLM
 * [duckduckgo-ai-chat](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
