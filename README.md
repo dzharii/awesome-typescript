@@ -170,6 +170,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [ParaglideJS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) - An i18n compiler that generates fully typesafe translations
 * [pg](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 * [nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+* [jqlite](https://github.com/Jay-Karia/jqlite) - ⚡ The query language for JSON
 
 ## Types
 * [jsonup](https://github.com/tani/jsonup) - Compile-time JSON parser
