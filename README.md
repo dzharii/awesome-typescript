@@ -248,6 +248,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Flowbite](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
 * :octocat: [ILLA Cloud](https://www.illacloud.com/) - Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes.
 * :octocat: [Treehouse](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+* :octocat: [GOUI](https://github.com/intermesh/goui) - Open source User Interface library with lots of components for building web applications
 
 ### Web/ReactJS
 * :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
