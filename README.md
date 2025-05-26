@@ -285,6 +285,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### AI
 
+* :octocat: [Creatify MCP](https://github.com/TSavo/creatify-mcp) - Model Context Protocol server that exposes Creatify AI's video generation capabilities to AI assistants, enabling natural language video creation workflows.
 * :octocat: [MastraAI](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
 * :octocat: [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 
@@ -309,6 +310,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Libraries
 * :octocat: [SuperJSON](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
+* :octocat: [Creatify API TypeScript](https://github.com/TSavo/creatify-api-ts) - TypeScript client library for Creatify AI's video generation API, providing type-safe access to avatar videos, URL-to-video conversion, text-to-speech, and AI editing tools.
 * :octocat: [Procedurem](https://github.com/ImVexed/Procedurem) - A Small (2kb) And Performant Bi-Directional RPC Library Using WebSockets.
 * :octocat: [RxJS](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript.
 * :octocat: [xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
