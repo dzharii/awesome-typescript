@@ -188,6 +188,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [getmytypes](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
 * [ts-toolbelt](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
 * [string-ts](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
+* [lib-result](https://github.com/AhmedOsman101/lib-result) - A lightweight, Rust-inspired `Result` type for type-safe error handling in TypeScript and JavaScript.
 
 ## CSS In JS With Types
 * [PandaCSS](https://panda-css.com/) - CSS-in-JS with build time generated styles, RSC compatible, multi-variant support, and best-in-class developer experience
