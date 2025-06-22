@@ -189,6 +189,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [ts-toolbelt](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
 * [string-ts](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
 * [lib-result](https://github.com/AhmedOsman101/lib-result) - A lightweight, Rust-inspired `Result` type for type-safe error handling in TypeScript and JavaScript.
+* [iso-locale](https://github.com/reacture-io/iso-locale) - A comprehensive TypeScript library providing ISO standards for handling countries, languages, dialects, and currencies.
 
 ## CSS In JS With Types
 * [PandaCSS](https://panda-css.com/) - CSS-in-JS with build time generated styles, RSC compatible, multi-variant support, and best-in-class developer experience
@@ -218,7 +219,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typia](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also https://typia.io/docs)
 * [fta](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
 * [dto-classes](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
-
+* [iso-locale](https://github.com/reacture-io/iso-locale) - A comprehensive TypeScript library providing ISO standards for handling countries, languages, dialects, and currencies.
 ## Built with TypeScript
 ### Mobile
 * :octocat: [ReactNative](https://reactnative.dev/) - Create native apps for Android, iOS, and more using React
