@@ -298,6 +298,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [SnowFS](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
 * :octocat: [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 * :octocat: [Nostream](https://github.com/cameri/nostream) - A Nostr Relay written in TypeScript
+* :octocat: [Peekaping](https://github.com/0xfurai/peekaping) - Uptime monitoring solution - Monitor websites, APIs, and services with real-time notifications, beautiful status pages, and comprehensive analytics
 
 ##### Chrome Extensions
 * [OctoLinker](https://github.com/OctoLinker/browser-extension)
