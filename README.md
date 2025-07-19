@@ -55,6 +55,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 - :books: [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide) A concise set of conventions and best practices for creating consistent, maintainable code.
 
 ### Typescript Project Starters
+* [React Starter Kit](https://github.com/kriasoft/react-starter-kit) – A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers.
 * [typescript-starter](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
 * [next-smrt](https://github.com/csprance/next-smrt) – A Typescript/NextJs boilerplate with Redux/Styled Components/Material UI and TypeSafe Actions.
 * :octocat: [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app boilerplate with Next.js 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
