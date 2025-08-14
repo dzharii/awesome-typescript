@@ -172,6 +172,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [pg](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 * [nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 * [jqlite](https://github.com/Jay-Karia/jqlite) - ⚡ The query language for JSON
+* [pompelmi](https://github.com/pompelmi/pompelmi) - File-upload malware scanning for Node.js to help prevent Remote File Inclusion (RFI), with adapters for Express, Koa, and Next.js
+
 
 ## Types
 * [jsonup](https://github.com/tani/jsonup) - Compile-time JSON parser
