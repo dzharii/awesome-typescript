@@ -365,6 +365,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [@diy0r/nestjs-rabbitmq](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
 * :octocat: [Onion.JS](https://github.com/ThomasAribart/onion.js) - Design and apply wrappers (i.e. high-order functions) without breaking types! Based on [HotScript](https://github.com/gvergnaud/hotscript) high-order types.
 * :octocat: [text-smart-trimmer](https://github.com/vaidehimani/text-smart-trimmer) - A lightweight TypeScript utility for trimming text while choosing to preserve word boundaries, punctuation, and custom suffixes.
+* :octocat: [safe-fetch](https://github.com/asouei/safe-fetch) - Zero-dependency fetch wrapper with safe results, dual timeouts, smart retries and normalized TypeScript errors.
 * :octocat: [stunk](https://github.com/I-am-abdulazeez/stunk) - Lightweight, framework-agnostic state management library with atomic chunks for fine-grained reactivity, simple and applicable for any Typescript applications.
 * :octocat: [blastore](https://github.com/sergey-shablenko/blastore) - A minimal, high-performance storage wrapper for localStorage, AsyncStorage, memory or any sync/async backend — with full TypeScript type safety.
 * :octocat: [FilterQL](https://github.com/adamhl8/filterql) - A tiny query language for filtering structured data
