@@ -233,6 +233,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ### Web
 * :octocat: [Angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 * :octocat: [It-Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX
+* :octocat: [Fedify](https://github.com/fedify-dev/fedify) - TypeScript framework for building federated server apps powered by ActivityPub and the fediverse
 * :octocat: [feednext.io](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 * :octocat: [ionic](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 * :octocat: [React-UWP](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
@@ -273,6 +274,12 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 * :octocat: [Materio Free MUI React NextJS Typescript Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
 * :octocat: [Flowbite React](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
+
+### Platform Engineering & DevOps
+* :octocat: [CDK8s](https://cdk8s.io/) - Define Kubernetes applications and reusable abstractions using TypeScript
+* :octocat: [AWS CDK](https://github.com/aws/aws-cdk) - Cloud Development Kit for defining cloud infrastructure in TypeScript
+* :octocat: [Pulumi](https://github.com/pulumi/pulumi) - Infrastructure as Code using TypeScript, JavaScript, Python, Go, and .NET
+* :octocat: [Backstage](https://github.com/backstage/backstage) - Platform for building developer portals, written in TypeScript
 
 ### Back-end API
 * :octocat: [Actio](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
