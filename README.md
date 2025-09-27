@@ -376,6 +376,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [stunk](https://github.com/I-am-abdulazeez/stunk) - Lightweight, framework-agnostic state management library with atomic chunks for fine-grained reactivity, simple and applicable for any Typescript applications.
 * :octocat: [blastore](https://github.com/sergey-shablenko/blastore) - A minimal, high-performance storage wrapper for localStorage, AsyncStorage, memory or any sync/async backend — with full TypeScript type safety.
 * :octocat: [FilterQL](https://github.com/adamhl8/filterql) - A tiny query language for filtering structured data
+* :octocat: [ffetch](https://github.com/fetch-kit/ffetch) – TypeScript-first `fetch` wrapper with retries, timeouts, circuit breaker, and lifecycle hooks. Zero runtime deps, works wherever `fetch` does
 
 # LLM
 * [duckduckgo-ai-chat](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
