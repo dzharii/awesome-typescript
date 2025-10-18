@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dzharii-awesome-typescript-badge.png)](https://mseep.ai/app/dzharii-awesome-typescript)
+
 # Awesome TypeScript
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch](https://github.com/dzharii/awesome-elasticsearch) →
