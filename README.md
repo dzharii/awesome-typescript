@@ -120,6 +120,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Typescript addin for](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
 * [Typescript tooling for Neovim](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
 * [Coc](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode.
+* [Dash](https://kapeli.com/dash) Offline API documentation browser for macOS with instant search for TypeScript docs and 200+ other frameworks.
 
 #### Online
 
