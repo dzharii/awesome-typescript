@@ -53,6 +53,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Codebook](https://github.com/gvanastasov/codebook-typescript) read and run small code snippets to progressively learn TypeScript from the basic to advanced concepts.
 * :octocat: [Type Challenges](https://github.com/type-challenges/type-challenges) Collection of TypeScript type challenges with online judge.
 - :books: [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide) A concise set of conventions and best practices for creating consistent, maintainable code.
+- :art: [Visual Types](https://types.kitlangton.com/) Interactive visualizations of TypeScript concepts. Behold pretty colors.
 
 ### Typescript Project Starters
 * [React Starter Kit](https://github.com/kriasoft/react-starter-kit) – A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers.
