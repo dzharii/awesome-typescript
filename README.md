@@ -258,6 +258,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [ILLA Cloud](https://www.illacloud.com/) - Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes.
 * :octocat: [Treehouse](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 * :octocat: [GOUI](https://github.com/intermesh/goui) - Open source User Interface library with lots of components for building web applications
+* :octocat: [InDom](https://github.com/constcallid/indom) - <4KB stack-agnostic modern DOM library with automatic cleanup, TypeScript source and type definitions.
 
 ### Web/ReactJS
 * :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
