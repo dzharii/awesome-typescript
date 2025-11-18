@@ -303,6 +303,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 * :octocat: [MastraAI](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
 * :octocat: [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
+* :octocat: [Tambo](https://github.com/tambo-ai/tambo) - React SDK for building generative UIs with MCP support.
 * :octocat: [Maxim AI](https://github.com/maximhq/maxim-js) - JS/TS SDK for enabling Maxim observability. Maxim is an enterprise grade evaluation and observability platform. (see also: https://getmaxim.ai)
 
 ### Standalone apps
