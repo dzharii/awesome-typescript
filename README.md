@@ -336,7 +336,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [TypeMoq](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
 * :octocat: [fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 * :octocat: [Suites](https://suites.dev) - A unit-testing framework for TypeScript backends utilizing inversion of control and dependency injection.
-* :octocat: [Synapse Agent Kit](https://github.com/Synapse-Founder/synapse-agent-kit) - Economic Trust Layer for AI Agents with Web Bot Auth & Surety Bond. TypeScript SDK for cryptographic authentication and economic accountability in agent HTTP requests.
+* :octocat: [Synapse Agent Kit](https://github.com/Synapse-Founder/synapse-agent-kit) - TypeScript SDK implementing the Web Bot Auth standard. Lightweight, zero-dependency library that adds cryptographic authentication (HMAC-SHA256) to AI agent HTTP requests, preventing anti-bot blocking.
 * :octocat: [InversifyJS](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 * :octocat: [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
   * :octocat: [Safe-TypeORM](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
