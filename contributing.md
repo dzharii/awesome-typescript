@@ -7,3 +7,4 @@
 * Fork this repo, do your edits, send the pull request
 * Feel free to create any new sections
 * Do not even try to add this repo to any awesome-awesome-* lists
+* LLM/AI-generated pull requests are not allowed; users who submit AI-generated pull requests will be blocked
