@@ -343,6 +343,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [DrizzleORM](https://orm.drizzle.team/) - Lightweight TypeScript ORM, SQL-like library for flexible data access, serverless-ready, with zero dependencies.
 * :octocat: [Prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
   * :octocat: [prisma-markdown](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
+* :octocat: [Corgi](https://github.com/cardog-ai/corgi) - TypeScript VIN decoder with optimized SQLite database. Fully offline, <1ms decodes, complete NHTSA dataset in 21MB.
 * :octocat: [Neuledge](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 * :octocat: [Typetta](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
 * :octocat: [TypeGQL](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
