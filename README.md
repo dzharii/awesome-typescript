@@ -306,6 +306,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 * :octocat: [Tambo](https://github.com/tambo-ai/tambo) - React SDK for building generative UIs with MCP support.
 * :octocat: [Maxim AI](https://github.com/maximhq/maxim-js) - JS/TS SDK for enabling Maxim observability. Maxim is an enterprise grade evaluation and observability platform. (see also: https://getmaxim.ai)
+* :octocat: [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK to anonymize PII locally before sending prompts to LLMs and seamlessly rehydrate the response.
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
@@ -391,6 +392,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 # LLM
 * [duckduckgo-ai-chat](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
 * [Neurolink](https://github.com/juspay/neurolink) - Universal AI development platform that unifies 12+ AI providers (OpenAI, Anthropic, Google, Bedrock, Azure) with MCP support, multi-provider failover, and production-ready enterprise features. TypeScript SDK + CLI.
+* [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK to anonymize PII locally before sending prompts to LLMs and seamlessly rehydrate the response.
 
 # Video Courses
 ## :free: Free Courses
