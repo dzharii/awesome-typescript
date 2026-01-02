@@ -287,6 +287,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### Back-end API
 * :octocat: [Actio](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
+* :star2: [Vedika API](https://vedika.io) - Vedic astrology API with 108+ endpoints, AI chatbot, and multi-agent swarm intelligence. TypeScript/Node.js backend with Swiss Ephemeris integration. (see also: https://vedika.io/docs)
 * :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
 * :octocat: [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 * :octocat: [Hono](https://hono.dev/) - Hono is a small, simple, and ultrafast web framework for the Edges. It works on any JavaScript runtime
