@@ -388,6 +388,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [FilterQL](https://github.com/adamhl8/filterql) - A tiny query language for filtering structured data
 * :octocat: [ffetch](https://github.com/fetch-kit/ffetch) – TypeScript-first `fetch` wrapper with retries, timeouts, circuit breaker, and lifecycle hooks. Zero runtime deps, works wherever `fetch` does
 * :octocat: [iterflow](https://github.com/gv-sh/iterflow) - Powerful iterator utilities with statistical operations, windowing, and lazy evaluation
+* :octocat: [@hashgraphonline/standards-sdk](https://github.com/hashgraph-online/standards-sdk) - TypeScript SDK for building AI agents on Hedera. Includes RegistryBrokerClient for discovering and interacting with decentralized AI agents, HCS message handling, and Hedera network utilities.
 
 # LLM
 * [duckduckgo-ai-chat](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
