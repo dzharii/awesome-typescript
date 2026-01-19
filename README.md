@@ -278,6 +278,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 * :octocat: [Materio Free MUI React NextJS Typescript Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
 * :octocat: [Flowbite React](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
+* :octocat: [react-feedback-surveys](https://github.com/feedback-tools-platform/react-feedback-surveys) - Lightweight, zero-dependency survey widgets for collecting user feedback (NPS, CSAT, CES) in React apps with full TypeScript support
 
 ### Platform Engineering & DevOps
 * :octocat: [CDK8s](https://cdk8s.io/) - Define Kubernetes applications and reusable abstractions using TypeScript
