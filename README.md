@@ -374,6 +374,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [diod](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 * :octocat: [@deliberative/crypto](https://github.com/deliberative/crypto) - A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser.
 * :octocat: [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
+* :octocat: [xcomponent-ai](https://github.com/xcomponent/xcomponent-ai) - Declarative state machine framework with YAML-based definitions, event sourcing, and real-time monitoring dashboard.
 * :octocat: [sweet-monads](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 * :octocat: [simple-mask-money](https://github.com/codermarcos/simple-mask-money) - 💰 Simple mask money is a light, safe and typed package to format money!
 * :octocat: [Color-Core](https://github.com/iamlite/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
